@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Organized on July 31, 1973. On January 1, 1985, the Texas Presbytery divided into North and South Texas Presbyteries.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The North Texas Presbytery covers the area of Texas north of and including the counties of Brewster, Terrell, Crocket, Schleicher, Menard, McCulloch, San Saba, Lampasas, Bell, Falls, Limestone, Freestone, Anderson, Cherokee, Rusk and Shelby, but excluding the counties of El Paso, Hudspeth, Culberson, Jeff Davis and Presidio; all of Oklahoma; Shreveport/Boosier City area of Louisiana.

@@ -2,22 +2,59 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+<div class="section-label column span-7">
+    <h2>
+        next<br />
+        meetings
+    </h2>
+  </div>
+  <div class="meetinginfo column span-17 last">
+    {% for meeting in site.meetings | where:"date", %}
+    {% assign sitetimenumber = site.time | date:'%Y%m%d' %}
+    {% assign enddatenumber = meeting.end_date | date:'%Y%m%d' %}
+      {% if enddatenumber > sitetimenumber %}
+      <h4 class="meeting-date">{{ meeting.date | date: '%B %e, %Y' }}</h4>
+      <h3 class="meeting-name">{{ meeting.title }}</h3>
+      <div class="meeting-brief">
+        <p>begins at {{ meeting.date | date: '%l:%M %P' }}, at <a href="{{ meeting.place.link }}">{{ meeting.place.name }} {% if meeting.place.location %}({{ meeting.place.location }}){% endif %}</a></p>
+      </div>
+      {% endif %}
     {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+    <!-- <h4 class="meeting-date">May 06, 2016</h4>
+    <h3 class="meeting-name">Meeting of NTP</h3>
+    <div class="meeting-brief">
+      <p>begins at 7:00pm, at <a href="http://ntpresby.org/churches/tx/tyler/fifth-street-presbyterian-church">Fifth Street Presbyterian Church - Tyler, Texas</a></p>
+    </div>
+    <h4 class="meeting-date">August 12, 2016</h4>
+    <h3 class="meeting-name">Meeting of NTP</h3>
+    <div class="meeting-brief">
+      <p>begins at 7:00pm, at <a href="http://ntpresby.org/churches/tx/plano/trinity-presbyterian-church">Trinity Presbyterian Church - Plano, Texas</a></p>
+    </div>
+    <h4 class="meeting-date">November 04, 2016</h4>
+    <h3 class="meeting-name">Meeting of NTP</h3>
+    <div class="meeting-brief">
+      <p>begins at 7:00pm, at <a href="http://ntpresby.org/churches/tx/colleyville/colleyville-presbyterian-church">Colleyville Presbyterian Church - Colleyville, Texas</a></p>
+    </div> -->
+  </div>
+</div>
+<hr />
+<div class="recent-news column span-24">
+  <div class="section-label column span-7">
+    <h2>
+        recent<br />
+        news
+    </h2>
+  </div>
+  <div class="recent-news-brief column span-17 last">
+    <div class="column span-10"></div>
+    <div class="column span-7 last">
+      <div class="box byfaith">
+        <h2>The Latest PCA News from <em>byFaithOnline</em></h2>
+        <p class="last small">
+          <a href="http://byfaithonline.com/page/pca-news/">More news from byFaithOnline</a>
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
