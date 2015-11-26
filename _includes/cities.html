@@ -1,0 +1,8 @@
+
+<dt>{{ cities.name }}</dt>
+{% assign city_items_sorted = cities.items | sort: 'title' %}
+{% for church_by_city in city_items_sorted %}
+  <dd>
+    <a href="{{ church_by_city.url }}">{{ church_by_city.title }}</a>
+  </dd>
+{% endfor %}

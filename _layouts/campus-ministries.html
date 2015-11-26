@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<div class="section-label column span-7">
+  <h2>{{ page.title }}</h2>
+  <p>{{ page.address_street }}<br />{{ page.address_city }}, {{ page.address_state }} <br /><a href="{{ page.website }}" target="_blank">Website</a></p>
+  <p><strong>Campus Minister</strong><br />{{ page.minister }}</p>
+</div>
+<div class="column span-17 last">
+  <!-- Map Here -->
+  {% include map.html %}
+</div>
+
+
+{% comment %}
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+
+    <p>
+      <strong>Website</strong><br />
+      <a href="{{ page.website }}">{{ page.website }}</a>
+    </p>
+
+    {% if page.phone %}
+    <p>
+      <strong>Phone</strong><br />
+      <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
+    </p>
+    {% endif %}
+    <p>
+      <strong>Address:</strong><br />
+      {{ page.address_street }}<br />
+      {{ page.address_city }}, {{ page.address_state }} {{ page.address_zipcode }}
+    </p>
+
+
+    {{ content }}
+
+    <hr />
+
+    {% assign cm_state = page.address_state %}
+    {% assign cm_address = site.campusministries | where: 'address_state',cm_state | sort: 'address_city' %}
+    {% assign group_by_city = cm_address | group_by: 'address_city' %}
+
+
+      {{ group_by_city }}
+
+
+    {% for cities in group_by_city %}
+      <h3>{{ cities.name }}</h3>
+      {% assign city_items_sorted = cities.items | sort: 'title' %}
+      {% for cm_by_city in city_items_sorted %}
+        <p>
+          <a href="{{ cm_by_city.url }}">{{ cm_by_city.title }}</a>
+        </p>
+      {% endfor %}
+    {% endfor %}
+
+
+  </div>
+
+</article>
+{% endcomment %}

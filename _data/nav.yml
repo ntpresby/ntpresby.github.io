@@ -1,0 +1,18 @@
+- name: About
+  url: /about
+  external: no
+- name: Churches
+  url: /churches
+  external: no
+- name: Campus Ministries
+  url: /campus-ministries
+  external: no
+- name: Committees
+  url: /committees
+  external: no
+- name: Women's Ministry (NTP)
+  url: http://ntpwomen.org
+  external: yes
+- name: Mission Trips
+  url: https://mtw.org/missiontrips
+  external: yes

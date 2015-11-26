@@ -1,0 +1,154 @@
+/* 
+
+
+*/
+
+
+@import url(blueprint/screen.css);
+@import url(modules.css);
+
+body.ntp {
+	margin: 0;
+	padding: 0;
+	background: #ddd;
+}
+
+.wrap {
+	padding: 40px 20px 40px 20px;
+	background: #fff;
+}
+
+.bottomwrap {
+	padding: 20px;
+}
+
+h1#logo {
+	background: url(../images/ntpresby-logo.png) no-repeat;
+	width: 212px;
+	height: 168px;
+	margin-left: 18px;
+	text-indent: -9999px;
+}
+
+h1#logo a { width:212px; height:168px; outline:none; display:block; }
+h1#logo a:hover { width:212px; height:168px; outline:none; display:block; background: url(../images/ntpresby-logo-home-rollover.png) no-repeat;}
+
+#mainnav ul {
+	margin: 0;
+	padding: 20px 40px;
+	text-align: center;
+}
+
+#mainnav ul li {
+	display: inline;
+	list-style: none;
+	margin: 0 0 0 11px;
+	padding: 0;
+	font: italic 14px/1 Georgia, "Times New Roman", Times, serif;
+	
+}
+
+#mainnav ul li a {
+	color: #929A92;
+	text-decoration: none;
+}
+
+#mainnav ul li a:hover {
+	color: #7C8560;
+}
+
+
+#mainnav ul li.separator {
+	background: url(../images/separator.gif) no-repeat right;
+	padding-right: 22px;
+}
+
+
+div#home-feature {
+	margin: 0 40px 0 40px;
+}
+
+.home-feature-set {
+	padding: 20px 20px 10px 20px;
+	background-color: #FCF8B2;
+	border: 1px solid #E0D595;
+}
+
+nm
+div#home-next-meeting {
+	padding: 20px 0;
+}
+
+div.recent-news {
+	padding: 20px 0;
+}
+
+
+div.section-label h2 {
+	padding-right: 45px;
+	text-align: right;
+	font: normal 2.4em/1 Georgia, "Times New Roman", Times, serif;
+	color: #aaa;
+}
+
+div.section-label p { 
+    padding-right: 45px;
+    text-align: right;
+    color: #555;
+}
+
+
+.home-feature-set h3, h3.meeting-name, h3.recent-news-name {
+	color: #CB3620;
+	font: italic normal 20px/120% Georgia, "Times New Roman", Times, serif;
+	margin: 0 0 4px 0;
+} 
+
+h4.meeting-date, h4.recent-news-date {
+	color: #999;
+	font: normal 16px/120% Georgia, "Times New Roman", Times, serif;
+	text-transform: uppercase;
+	margin: 0 0 4px 0;
+}
+
+.home-feature-set, .meeting-brief p, .recent-news-brief p {
+	font-size: 14px;
+}
+
+
+dl.church-list dt {
+	font-size: 18px;
+	font-weight: normal;
+	color: #929A92;
+	line-height: 150%;
+	padding-top: 10px;
+} 
+
+dl.church-list dt.first {
+	padding-top: 0;
+}
+
+dl.church-list dd {
+	font-size: 14px;
+	line-height: 150%;
+	padding-bottom: 8px;
+} 
+
+
+hr.space {
+	border-bottom: 1px solid #ccc;
+}
+
+/* TABS */
+.ui-tabs .ui-tabs-nav li a { border: 1px solid #ddd; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a {
+	background: #eee;
+}
+
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a {
+	background: #fff; color: #444; font-weight: bold;}
+
+.tab-setting { clear: both; }
+

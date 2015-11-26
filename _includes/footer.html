@@ -1,0 +1,23 @@
+<div class="bottomwrap">
+  <div class="container">
+    <div class="column span-24">
+      <div id="copyright" class="column span-10 append-8">
+        <p>Copyright {{ site.time | date: "%Y" }}, {{ site.denomination.name }}<br /><a href="{{ site.denomination.url }}" title="{{ site.denomination.name }}" rel="external" target="_blank">{{ site.denomination.name }}</a></p>
+      </div>
+      <div id="tweet-box" class="column span-6 last"></div>
+    </div>
+  </div>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" cfasync="true"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
+<script data-cfasync="true">
+      $(function() {
+        $("#tabs").tabs({
+          show: function(event, ui) {
+                          if (ui.panel.id == "tab-event-map") {
+                                  $(ui.panel).css("height","100%")
+                                initialize()
+                                }}
+        });
+      });
+    </script>

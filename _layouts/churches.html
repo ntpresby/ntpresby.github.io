@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<div class="section-label column span-7">
+  <h2>{{ page.title }}</h2>
+  <p>
+    {{ page.address_street }}<br />{{ page.address_city }}, {{ page.address_state }} {{ page.address_zipcode }}{% if page.phone %}<br /><a href="tel:{{ page.phone | remove:'-' }}">{{ page.phone | remove:' ' }}</a>{% endif %}{% if page.website %}<br /><a href="{{ page.website }}" target="_blank">Website</a>{% endif %}
+  </p>
+  {% if page.pastors %}
+  <p>
+    <strong>Pastoral Staff</strong>
+    {% for pastor in page.pastors %}
+    <br />{{ pastor.name }}{% if pastor.senior_minister %}, Senior Minister{% endif %}
+    {% endfor %}
+  </p>
+  {% endif %}
+</div>
+<div class="column span-17 last">
+  <!-- Map Here -->
+  {% include map.html %}
+</div>
+
+{% comment %}
+<article class="post">
+
+
+  <div class="post-content">
+
+    <p>
+      <strong>Website</strong><br />
+      <a href="{{ page.website }}">{{ page.website }}</a>
+    </p>
+
+    {% if page.phone %}
+    <p>
+      <strong>Phone</strong><br />
+      <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
+    </p>
+    {% endif %}
+    <p>
+      <strong>Address:</strong><br />
+      {{ page.address_street }}<br />
+      {{ page.address_city }}, {{ page.address_state }} {{ page.address_zipcode }}
+    </p>
+
+
+    {{ content }}
+
+    <hr />
+
+
+
+
+  </div>
+
+</article>
+{% endcomment %}

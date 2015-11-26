@@ -1,0 +1,26 @@
+<script type="text/javascript">
+  function initialize() {
+        var myLatLng = new google.maps.LatLng({{ page.address_geocode }});
+        var myOptions = {
+          zoom: 14,
+          center: myLatLng,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+        var marker = new google.maps.Marker({
+                position: myLatLng,
+                map: map
+            });
+
+        var infowindow = new google.maps.InfoWindow({
+                content: '<strong>{{ page.title }}</strong><br />{{ page.address_street }} {{ page.address_city }}, {{ page.address_state }} {{ address_zipcode }}<br /><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q={{ page.address_street }} {{ address_city }}, {{ address_state }} {{ address_zipcode }},&amp;iwstate1=dir:to">Get Directions</a>',
+                position: myLatLng
+            });
+
+        infowindow.open(map);
+      }
+      google.setOnLoadCallback(initialize);
+</script>
+<div id="event_map">
+  <div id="map_canvas" style="width: 590px; height: 340px; border: 7px solid #ddd;"></div>
+</div>

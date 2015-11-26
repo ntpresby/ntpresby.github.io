@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+{% assign cm_address = site.campusministries | sort: 'address_city' %}
+{% assign group_by_tx = cm_address | where: 'address_state','TX' | group_by: 'address_city' %}
+{% assign group_by_ok = cm_address | where: 'address_state','OK' | group_by: 'address_city' %}
+{% assign group_by_la = cm_address | where: 'address_state','LA' | group_by: 'address_city' %}
+{% assign tx_size = group_by_tx | size %}
+{% assign ok_size = group_by_ok | size %}
+{% assign la_size = group_by_la | size %}
+
+{% comment %}
+  {{ group_by_tx }}
+  {{ group_by_ok }}
+  {{ group_by_la }}
+{% endcomment %}
+
+
+{% if tx_size > 0 %}
+<div class="section-label column span-7">
+  <h2>Texas {{ page.title }}</h2>
+</div>
+<div class="column span-17 last">
+  <dl class="church-list">
+    {% for cities in group_by_tx %}
+      {% include cities.html %}
+    {% endfor %}
+  </dl>
+</div>
+{% endif %}
+{% if ok_size > 0 %}
+<br />
+<hr />
+<br />
+<div class="section-label column span-7">
+  <h2>Oklahoma {{ page.title }}</h2>
+</div>
+<div class="column span-17 last">
+  <dl class="church-list">
+    {% for cities in group_by_ok %}
+      {% include cities.html %}
+    {% endfor %}
+  </dl>
+</div>
+{% endif %}
+{% if la_size > 0 %}
+<br />
+<hr />
+<br />
+<div class="section-label column span-7">
+  <h2>Louisiana {{ page.title }}</h2>
+</div>
+<div class="column span-17 last">
+  <dl class="church-list">
+    {% for cities in group_by_la %}
+      {% include cities.html %}
+    {% endfor %}
+  </dl>
+</div>
+{% endif %}

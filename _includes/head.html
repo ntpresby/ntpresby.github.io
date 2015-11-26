@@ -1,0 +1,18 @@
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ "/workspace/css/main.css" | prepend: site.baseurl }}" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="{{ "/workspace/css/jquery-ui-tabs.css" | prepend: site.baseurl }}" media="screen, projection" />
+  <link rel="stylesheet" href="{{ "/workspace/css/blueprint/print.css" | prepend: site.baseurl }}" type="text/css" media="print" />
+  <style>
+          #map {
+             width: 590px; height: 340px; border: 7px solid #ddd;
+          }
+        </style>
+  <script data-cfasync="true" src="//www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7Bname%3A%22maps%22%2Cversion%3A3%2Cother_params%3A%22sensor%3Dfalse%22%7D%2C%7B%22name%22%3A%22jquery%22%2C%22version%22%3A%221.9.0%22%7D%2C%7B%22name%22%3A%22jqueryui%22%2C%22version%22%3A%221.8.9%22%7D%5D%7D" type="text/javascript"></script>
+</head>

@@ -1,0 +1,16 @@
+<div class="column span-6">
+  <h1 id="logo">
+    <a href="http://ntpresby.org" title="North Texas Presbytery (Presbyterian Church in America)">North Texas Presbytery (Presbyterian Church in America) — Churches</a>
+  </h1>
+</div>
+<div class="column span-18 last">
+  <div id="mainnav">
+    <ul id="menu">
+      {% for navitem in site.data.nav %}
+      <li>
+        <a href="{{ navitem.url }}"{% if navitem.external %}target="_blank"{% endif%}>{{ navitem.name }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <br />

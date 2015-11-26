@@ -1,0 +1,9 @@
+/* MODULES */
+
+/* ByFaithOnline News Updates */
+div.byfaith h2 { font-size: 1.2em; color: #555;}
+div.byfaith dl dt { color: #6E896E; font-weight: normal; }
+div.byfaith dl dd { margin: 0; }
+div.byfaith dl dd h4 { font-size: 1.1em; margin: 0; color: #CB3620; }
+div.byfaith dl dd h4 a { font-weight: normal; margin: 0; color: #CB3620; text-decoration: none;}
+div.byfaith dl dd p { font-size: 0.9em; margin: 0; }
