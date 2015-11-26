@@ -29,7 +29,7 @@ permalink: pretty
 collections:
   churches:
     output: true
-    permalink: /churches/:state/:path/
+    permalink: /churches/:path/
   campusministries:
     output: true
     permalink: /campus-ministries/:path/
