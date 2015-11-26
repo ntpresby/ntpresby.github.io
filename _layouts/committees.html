@@ -4,62 +4,33 @@ layout: default
 <div class="section-label column span-7">
   <h2>{{ page.title }}</h2>
 </div>
-<div class="column span-17 last">
-  
+<div class="column span-8 append-1">
+  {% for member in page.members %}
+  <dl class="committee-member-item">
+    <dt>{{ member.name }}</dt>
+    <dd>
+      <p>
+        {{ member.committee_role }}<br />
+        {{ member.church }}{{ member.campus-ministry }}<br />
+        {{ member.church_office }}<br />
+      </p>
+    </dd>
+  </dl>
+  {% endfor %}
 </div>
-
-
-{% comment %}
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <div class="post-content">
-
-    <p>
-      <strong>Website</strong><br />
-      <a href="{{ page.website }}">{{ page.website }}</a>
-    </p>
-
-    {% if page.phone %}
-    <p>
-      <strong>Phone</strong><br />
-      <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
-    </p>
-    {% endif %}
-    <p>
-      <strong>Address:</strong><br />
-      {{ page.address_street }}<br />
-      {{ page.address_city }}, {{ page.address_state }} {{ page.address_zipcode }}
-    </p>
-
-
-    {{ content }}
-
-    <hr />
-
-    {% assign cm_state = page.address_state %}
-    {% assign cm_address = site.campusministries | where: 'address_state',cm_state | sort: 'address_city' %}
-    {% assign group_by_city = cm_address | group_by: 'address_city' %}
-
-
-      {{ group_by_city }}
-
-
-    {% for cities in group_by_city %}
-      <h3>{{ cities.name }}</h3>
-      {% assign city_items_sorted = cities.items | sort: 'title' %}
-      {% for cm_by_city in city_items_sorted %}
-        <p>
-          <a href="{{ cm_by_city.url }}">{{ cm_by_city.title }}</a>
-        </p>
-      {% endfor %}
+<div class="column span-8 last">
+  {% if page.documents %}
+  <div class="box forms">
+    <h3>{{ page.title }}<br />Documents and Forms</h3>
+    {% for doc in page.documents %}
+    <dl class="download ">
+      <dt>
+        <a href="{{ site.file_uploads }}/{{ doc.file }}" title="{{ doc.file }}" target="_blank">{{ doc.name }}</a>
+      </dt>
+    </dl>
     {% endfor %}
-
-
   </div>
+  {% endif %}
 
-</article>
-{% endcomment %}
+
+</div>

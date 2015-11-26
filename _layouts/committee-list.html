@@ -7,6 +7,8 @@ layout: default
 </div>
 <div class="column span-17 last">
   <dl class="church-list">
-    
+    {% for committee in site.committees %}
+    <dt><a href="{{ committee.url }}">{{ committee.title }}</a></dt>
+    {% endfor %}
   </dl>
 </div>

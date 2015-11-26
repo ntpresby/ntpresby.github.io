@@ -36,3 +36,6 @@ collections:
   campusministries:
     output: true
     permalink: /campus-ministries/:path/
+  committees:
+    output: true
+    permalink: /committees/:path/
