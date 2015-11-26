@@ -10,9 +10,10 @@ layout: default
     <dt>{{ member.name }}</dt>
     <dd>
       <p>
-        {{ member.committee_role }}<br />
-        {{ member.church }}{{ member.campus-ministry }}<br />
-        {{ member.church_office }}<br />
+        {% if member.committee_role %}{{ member.committee_role }}<br />{% endif %}
+        {% if member.church %}{{ member.church }}<br />{% endif %}
+        {% if member.campus-ministry %}{{ member.campus-ministry }}<br />{% endif %}
+        {% if member.church_office %}{{ member.church_office }}<br />{% endif %}
       </p>
     </dd>
   </dl>
