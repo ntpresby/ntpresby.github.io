@@ -9,10 +9,11 @@
   <link rel="stylesheet" href="{{ "/workspace/css/main.css" | prepend: site.baseurl }}" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="{{ "/workspace/css/jquery-ui-tabs.css" | prepend: site.baseurl }}" media="screen, projection" />
   <link rel="stylesheet" href="{{ "/workspace/css/blueprint/print.css" | prepend: site.baseurl }}" type="text/css" media="print" />
+  <link href="//api.mapbox.com/mapbox.js/v2.2.3/mapbox.css" rel="stylesheet" />
   <style>
-          #map {
-             width: 590px; height: 340px; border: 7px solid #ddd;
-          }
-        </style>
-  <script data-cfasync="true" src="//www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7Bname%3A%22maps%22%2Cversion%3A3%2Cother_params%3A%22sensor%3Dfalse%22%7D%2C%7B%22name%22%3A%22jquery%22%2C%22version%22%3A%221.9.0%22%7D%2C%7B%22name%22%3A%22jqueryui%22%2C%22version%22%3A%221.8.9%22%7D%5D%7D" type="text/javascript"></script>
+    #map {
+       width: 590px; height: 340px; border: 7px solid #ddd;
+    }
+  </style>
+  <script src="//api.mapbox.com/mapbox.js/v2.2.3/mapbox.js"></script>
 </head>
