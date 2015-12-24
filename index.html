@@ -47,7 +47,21 @@ layout: default
     </h2>
   </div>
   <div class="recent-news-brief column span-17 last">
-    <div class="column span-10"></div>
+    <div class="column span-10">
+      {% for newsitem in site.news | where:"date", %}
+      {% assign sitetimenumber = site.time | date:'%Y%m%d' %}
+      {% assign enddatenumber = newsitem.expires | date:'%Y%m%d' %}
+        {% if newsitem.publish %}
+          {% if enddatenumber > sitetimenumber %}
+          <h4 class="recent-news-date">{{ newsitem.date | date: '%B %e, %Y' }}</h4>
+          <h3 class="recent-news-name">{{ newsitem.title }}</h3>
+          <div class="recent-news-brief">
+            {{ newsitem.content | markdownify }}
+          </div>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
     <div class="column span-7 last">
       <div class="box byfaith">
         <h2>The Latest PCA News from <em>byFaithOnline</em></h2>
