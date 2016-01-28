@@ -14,3 +14,13 @@
     </ul>
   </div>
   <br />
+  {% for feature in site.homefeature | where:"date", %}
+  {% assign sitetimenumber = site.time | date:'%Y%m%d' %}
+  {% assign enddatenumber = feature.end_date | date:'%Y%m%d' %}
+    {% if enddatenumber > sitetimenumber %}
+    <div id="home-feature" class="home-feature-set">
+      <h3>{{ feature.title }} / {{ feature.place.location }} / {{ feature.date_display }}</h3>
+      {{ feature.content }}
+    </div>
+    {% endif %}
+  {% endfor %}

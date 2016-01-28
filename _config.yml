@@ -41,5 +41,7 @@ collections:
     permalink: /committees/:path/
   meetings:
     output: false
+  homefeature:
+    output: false
   news:
     output: false
