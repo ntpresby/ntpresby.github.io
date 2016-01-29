@@ -20,7 +20,7 @@
     {% if enddatenumber > sitetimenumber %}
     <div id="home-feature" class="home-feature-set">
       <h3>{{ feature.title }} / {{ feature.place.location }} / {{ feature.date_display }}</h3>
-      {{ feature.content }}
+      {{ feature.content|markdownify }}
     </div>
     {% endif %}
   {% endfor %}
