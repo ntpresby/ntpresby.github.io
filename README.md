@@ -1,7 +1,5 @@
-# ntpresby.github.io
-
-Website for North Texas Presbytery of the Presbyterian Church in America (PCA).
+### ntpresby.github.io (ntpresby.org)
 
 ---
 
-URL: ntpresby.org
+Website for North Texas Presbytery of the Presbyterian Church in America (PCA).
