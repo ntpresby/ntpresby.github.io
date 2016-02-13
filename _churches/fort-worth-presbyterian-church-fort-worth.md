@@ -9,16 +9,11 @@ address_zipcode: 76132
 address_geocode: 32.6583534,-97.4086332
 phone: 817-731-3300
 website: http://www.fortworthpca.org
-pastors: 
-  - 
+pastors:
+  -
     name: Darwin Jordan
     senior_minister: Yes
-  - 
-    name: Brian Davis
-    senior_minister: No
-  - 
-    name: Thomas Warmath
+  -
+    name: Ryan Moore
     senior_minister: No
 ---
-
-
