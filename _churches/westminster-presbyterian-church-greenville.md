@@ -8,11 +8,9 @@ address_state: TX
 address_zipcode: 75402
 address_geocode: 33.0984280,-96.1111030
 phone: 903-454-3470
-website: http://www.westminstergreenville.com
-pastors: 
-  - 
-    name: Greg Fields
-    senior_minister: Yes
+website: http://www.wpcgt.com
+#pastors:
+#  -
+#    name: Greg Fields
+#    senior_minister: Yes
 ---
-
-
