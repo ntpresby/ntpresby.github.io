@@ -1,6 +1,6 @@
 ---
 layout: churches
-title: Grace
+title: Grace Presbyterian Church
 slug: grace-stillwater
 address_street: 502 S Kings St
 address_city: Stillwater
