@@ -2,20 +2,18 @@
 layout: churches
 title: Redeemer Presbyterian Church
 slug: redeemer-presbyterian-church-edmond
-address_street: 21477 N Western Ave
+address_street: Cross Timbers Elementary School, 4800 N Kelly Ave
 address_city: Edmond
 address_state: OK
-address_zipcode: 73012
-address_geocode: 35.6897590,-97.5333728
+address_zipcode: 73025
+address_geocode: 35.7047104,-97.4997678
 phone: 254-723-4287
 website: http://www.redeemerpcaedmond.org
-pastors: 
-  - 
+pastors:
+  -
     name: Pete Hatton
     senior_minister: Yes
-  - 
-    name: Matt Oliver
+  -
+    name: Clay Wooten
     senior_minister: No
 ---
-
-
