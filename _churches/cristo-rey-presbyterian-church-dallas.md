@@ -7,11 +7,9 @@ address_city: Dallas
 address_state: TX
 address_zipcode: 75220
 address_geocode: 32.8572466,-96.8636642
-website: http://cristoreypca.org
-pastors: 
-  - 
-    name: Josh Geiger
-    senior_minister: Yes
+website: http://www.cristoreypca.org
+#pastors:
+#  -
+#    name: Josh Geiger
+#    senior_minister: Yes
 ---
-
-
