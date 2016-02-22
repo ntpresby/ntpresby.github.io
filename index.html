@@ -7,8 +7,8 @@ layout: default
         next<br />
         meetings
     </h2>
-  </div>
-  <div class="meetinginfo column span-17 last">
+</div>
+<div class="meetinginfo column span-17 last">
     {% for meeting in site.meetings | where:"date", %}
     {% assign sitetimenumber = site.time | date:'%Y%m%d' %}
     {% assign enddatenumber = meeting.end_date | date:'%Y%m%d' %}
@@ -36,7 +36,6 @@ layout: default
     <div class="meeting-brief">
       <p>begins at 7:00pm, at <a href="http://ntpresby.org/churches/tx/colleyville/colleyville-presbyterian-church">Colleyville Presbyterian Church - Colleyville, Texas</a></p>
     </div> -->
-  </div>
 </div>
 <hr />
 <div class="recent-news column span-24">
