@@ -12,5 +12,5 @@ website: http://christcovenantc.com
 pastors:
   -
     name: Jon Marq Toombs
-    senior_minister: Yes
+    senior_minister: No
 ---
