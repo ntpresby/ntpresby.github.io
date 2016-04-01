@@ -3,8 +3,8 @@ layout: committees
 title: Candidates
 members:
  -
-  name: David Boxerman
-  church: Lakeside Presbyterian Church - Southlake
+  name: Matt Fray
+  church: Park Cities Presbyterian Church - Dallas
   church_office: Teaching Elder
   committee_role: Chairman
  -
