@@ -1,7 +1,7 @@
 ---
 title: Open position at Park Cities Presbyterian Church - Full-time Preschool Ministry Coordinator
 date: 2015-12-15 00:00
-expires: 2016-05-01 00:00
+expires: 2016-04-01 00:00
 publish: yes
 ---
 
