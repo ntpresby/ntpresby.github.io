@@ -7,7 +7,13 @@ layout: default
 <div class="column span-8 append-1">
   {% for member in page.members %}
   <dl class="committee-member-item">
-    <dt>{{ member.name }}</dt>
+    <dt>
+      {% if member.email %}
+        <a href="mailto:{{ member.email }}" title="Email {{ member.name }}">{{ member.name }}</a>
+      {% else  %}
+        {{ member.name }}
+      {% endif %}
+    </dt>
     <dd>
       <p>
         {% if member.committee_role %}{{ member.committee_role }}<br />{% endif %}
