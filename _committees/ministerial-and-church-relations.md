@@ -3,10 +3,10 @@ layout: committees
 title: Ministerial and Church Relations
 members:
  -
-  name: Kenneth Kneip
-  church: New Covenant Presbyterian Church - Dallas
-  church_office: Ruling Elder
-  committee_role: Chairman
+  name: Bryant McGee
+  church: Redeemer Presbyterian Church - McKinney
+  church_office: Teaching Elder
+  committee_role: Chairman  
  -
   name: Jim Leckie
   church: Christ the King Presbyterian Church - Norman
@@ -15,9 +15,6 @@ members:
  -
   name: Beau Berman
   church: Ethos Presbyterian Church - Tulsa
-  church_office: Teaching Elder
- -
-  name: Paul Fowler
   church_office: Teaching Elder
  -
   name: Jeff Hatton
@@ -30,6 +27,10 @@ members:
  -
   name: John Hawkins
   church: Park Cities Presbyterian Church - Dallas
+  church_office: Ruling Elder
+ -
+  name: Kenneth Kneip
+  church: New Covenant Presbyterian Church - Dallas
   church_office: Ruling Elder
  -
   name: Wes O'Neill

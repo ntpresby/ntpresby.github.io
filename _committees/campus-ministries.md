@@ -21,20 +21,20 @@ members:
     church: Providence Presbyterian Church - Lubbock
     church_office: Ruling Elder
   -
-    name: Bill Thomas
-    church: Park Cities Presbyterian Church - Dallas
-    church_office: Ruling Elder
-    committee_role: Executive Director - Southwest Church Planting Network
-  -
     name: Rob Hamby
     church: Mercy Presbyterian Church - Dallas
     church_office: Teaching Elder
   -
-    name: Paul Delauriers
-    church: Christ Presbyterian Church - Tulsa
+    name: Tyler Ozanne
+    church: New St. Peter's Presbyterian Church - Dallas
     church_office: Ruling Elder
   -
     name: Doug Serven
     church: City Presbyterian Church - Oklahoma City
     church_office: Teaching Elder
+  -
+    name: Bill Thomas
+    church: Park Cities Presbyterian Church - Dallas
+    church_office: Ruling Elder
+    committee_role: Executive Director - Southwest Church Planting Network
 ---

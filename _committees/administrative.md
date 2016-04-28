@@ -13,9 +13,9 @@ members:
     church_office: Ruling Elder
     committee_role: Treasurer
   -
-    name: Paul Brown
-    church: New Covenant Presbyterian Church - Dallas
-    church_office: Teaching Elder
+    name: Bill Thomas
+    church: Park Cities Presbyterian Church - Dallas
+    church_office: Ruling Elder
     committee_role: Chairman
   -
     name: David Frierson

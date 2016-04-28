@@ -20,6 +20,10 @@ members:
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
  -
+  name: Rob Mackey
+  church: Lakeside Presbyterian Church - Southlake
+  church_office: Ruling Elder
+ -
   name: Michael Philiber
   church: Heritage Presbyterian Church - Edmond
   church_office: Teaching Elder
