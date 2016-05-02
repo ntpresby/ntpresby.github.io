@@ -8,10 +8,11 @@ address_state: TX
 address_zipcode: 75115
 address_geocode: 32.6237781,-96.8717778
 website: http://ctktexas.com
-pastors: 
-  - 
+pastors:
+  -
     name: Patrick Lafferty
     senior_minister: Yes
+  -
+    name: Kevin Gladding
+    senior_minister: No
 ---
-
-
