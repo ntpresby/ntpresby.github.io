@@ -13,7 +13,4 @@ pastors:
   -
     name: Kyle Oliphint
     senior_minister: Yes
-  -
-    name: Davis Morgan
-    senior_minister: No
 ---
