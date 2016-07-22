@@ -26,6 +26,18 @@ layout: default
   {% endfor %}
 </div>
 <div class="column span-8 last">
+  {% if page.important_dates %}
+  <div class="box forms">
+    <h3>{{ page.title }}<br />Important Dates</h3>
+    {% for important in page.important_dates %}
+    <dl class="download ">
+      <dt>
+        {{ important.name }}
+      </dt>
+    </dl>
+    {% endfor %}
+  </div>
+  {% endif %}
   {% if page.documents %}
   <div class="box forms">
     <h3>{{ page.title }}<br />Documents and Forms</h3>

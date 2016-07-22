@@ -54,4 +54,18 @@ members:
   name: Matt Wood
   church: Grace & Peace Presbyterian Church - Anna
   church_office: Teaching Elder
+
+important_dates:
+ -
+  name: "Floor Exams: 8/13/16, 11/5/16, 2/4/17"
+ -
+  name: "TEC Oral Exams (Beginning at 9am, Fort Worth Presbyterian Church): 10/13/16, 1/12/17"
+ -
+  name: "Note: All written exams are due at least one week before the Oral exam dates."
+
+documents:
+ -
+  name: Preparing for Licensure and Ordination Exams
+  url: "https://www.cepbookstore.com/p-1765-preparing-for-licensure-ordi.aspx"
+  author: Chapell and Meek
 ---
