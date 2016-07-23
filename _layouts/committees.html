@@ -34,6 +34,18 @@ layout: default
       <dt>
         {{ important.name }}
       </dt>
+      {% if important.dates %}
+        {% for date_item in important.dates | where:"date", %}
+        {% assign sitetimenumber = site.time | date:'%Y%m%d' %}
+        {% assign enddatenumber = date_item.date | date:'%Y%m%d' %}
+          {% if enddatenumber >= sitetimenumber %}
+          <dd>{{ date_item.date | date:'%A, %B %e, %Y' }}</dd>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {% if important.note %}
+        <dd><em>{{ important.note }}</em></dd>
+      {% endif %}
     </dl>
     {% endfor %}
   </div>
