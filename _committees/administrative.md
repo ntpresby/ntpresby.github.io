@@ -18,9 +18,9 @@ members:
     church_office: Ruling Elder
     committee_role: Chairman
   -
-    name: David Frierson
-    church: Sherwood Shores Chapel - Gordonville
-    church_office: Teaching Elder
+    name: Charles Broom
+    church: Redeemer Presbyterian Church - McKinney
+    church_office: Ruling Elder
     committee_role: Clerk
   -
     name: Paul Bryant
