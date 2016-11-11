@@ -30,5 +30,5 @@ members:
 documents:
   -
     name: The Standing Rules of the North Texas Presbytery
-    file: 20150207_the-standing-rules-of-north-texas-presbytery.pdf
+    file: 20130503_the-standing-rules-of-north-texas-presbytery.pdf
 ---
