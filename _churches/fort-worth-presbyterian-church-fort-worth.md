@@ -16,4 +16,7 @@ pastors:
   -
     name: Ryan Moore
     senior_minister: No
+  -
+    name: Phillip Maxwell
+    senior_minister: No
 ---
