@@ -19,6 +19,10 @@ members:
   church: Lakeside Presbyterian Church - Southlake
   church_office: Ruling Elder
  -
+  name: Josh Anderson
+  church: Colleyville Presbyterian Church - Colleyville
+  church_office: Teaching Elder
+ -
   name: Mike Biggs
   church: Christ the King Presbyterian Church - Norman
   church_office: Teaching Elder
@@ -30,10 +34,6 @@ members:
   name: Bobby Griffith
   church: City Presbyterian Church - Oklahoma City
   church_office: Teaching Elder
- -
-  name: Dave Haigler
-  church: New Covenant Presbyterian Church - Dallas
-  church_office: Ruling Elder
  -
   name: Jeff Murray
   church: New St. Peter's Presbyterian Church - Dallas
@@ -47,15 +47,17 @@ members:
   church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Ruling Elder
  -
-  name: Jeff Wilson
-  church: Park Cities Presbyterian Church - Dallas
-  church_office: Ruling Elder
- -
   name: Matt Wood
   church: Grace & Peace Presbyterian Church - Anna
   church_office: Teaching Elder
 
 important_dates:
+ -
+  name: "Committee Meetings: (Thursdays beginning at 9am, Fort Worth Presbyterian Church)"
+  dates:
+    - date: "2017-04-06"
+    - date: "2017-07-20"
+    - date: "2017-10-12"
  -
   name: "Floor Exams:"
   dates:
