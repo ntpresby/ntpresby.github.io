@@ -53,23 +53,18 @@ members:
 
 important_dates:
  -
-  name: "Committee Meetings: (Thursdays beginning at 9am, Fort Worth Presbyterian Church)"
+  name: "Floor Exams:"
+  dates:
+    - date: "2017-02-03"
+    - date: "2017-05-05"
+    - date: "2017-08-11"
+    - date: "2017-11-03"
+ -
+  name: "TEC Oral Exams (Thursdays beginning at 9am, Fort Worth Presbyterian Church):"
   dates:
     - date: "2017-04-06"
     - date: "2017-07-20"
     - date: "2017-10-12"
- -
-  name: "Floor Exams:"
-  dates:
-    - date: "2016-08-13"
-    - date: "2016-11-05"
-    - date: "2017-02-04"
- -
-  name: "TEC Oral Exams (Beginning at 9am, Fort Worth Presbyterian Church):"
-  dates:
-    - date: "2016-07-21"
-    - date: "2016-10-13"
-    - date: "2017-01-12"
   note: "Note: All written exams are due at least one week before the Oral exam dates."
 
 documents:
