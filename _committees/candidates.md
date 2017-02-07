@@ -12,16 +12,16 @@ members:
   church: Lakeside Presbyterian Church - Southlake
   church_office: Teaching Elder
  -
-  name: Bob Hilker
-  church: Lakeside Presbyterian Church - Southlake
-  church_office: Ruling Elder
+  name: Kevin Gladding
+  church: Christ the King Presbyterian Church - Desoto
+  church_office: Teaching Elder
  -
-  name: Don King
+  name: Tim Jeffress
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
  -
-  name: Rob Mackey
-  church: Lakeside Presbyterian Church - Southlake
+  name: Bobby Payne
+  church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
  -
   name: Michael Philiber
