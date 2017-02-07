@@ -42,11 +42,11 @@ members:
 
 documents:
  -
-  name: Annual Report for Men Under Care
-  file: Annual_Report_Men_Under_Care.pdf
+  name: Candidates Calendar (2017)
+  file: Candidates_Calendar_2017.pdf
  -
-  name: Application for the Gospel Ministry
-  file: Application_Candidate_for_the_Gospel_Ministry.pdf
+  name: Application for Candidates
+  file: Application_for_Candidates.pdf
  -
   name: Candidates for the Gospel Ministry
   file: BCO_18_Candidates_for_the_Gospel_Ministry.pdf
@@ -54,14 +54,8 @@ documents:
   name: Internship Checklist
   file: Internship_Checklist.pdf
  -
-  name: Internship Suggested Schedule
-  file: Internship_Suggested_Schedule.pdf
- -
-  name: Quarterly Intern Report
-  file: Quarterly_Intern_Report_Form.pdf
- -
-  name: Sessional Endorsement of Candidate for the Gospel Ministry
-  file: H_2_Sessional_Endorsement_Candidate_for_the_Gospel_Ministry.pdf
+  name: Sessional Endorsement for Candidates
+  file: Sessional_Endorsement_for_Candidates.pdf
  -
   name: Standing Rules Excerpts for Candidates Committee
   file: Standing_Rules_Excerpts_for_Candidates_Committee.pdf
