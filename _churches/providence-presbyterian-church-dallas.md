@@ -9,13 +9,10 @@ address_zipcode: 75229
 address_geocode: 32.8941321,-96.8387756
 phone: 214-270-1220
 website: http://www.providencedallas.com
-pastors: 
-  - 
-    name: David Rea
-    senior_minister: Yes
-  - 
-    name: Brent Horan
-    senior_minister: No
+pastors:
+- name: David Rea
+  senior_minister: true
+date: '2017-04-27T22:57:56.426+00:00'
 ---
 
 
