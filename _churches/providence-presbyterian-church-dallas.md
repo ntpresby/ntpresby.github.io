@@ -12,7 +12,7 @@ website: http://www.providencedallas.com
 pastors:
 - name: David Rea
   senior_minister: true
-date: '2017-04-27T22:57:56.426+00:00'
+date: 2017-04-28 09:54
 ---
 
 
