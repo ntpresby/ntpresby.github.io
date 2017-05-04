@@ -1,5 +1,6 @@
 ---
-title: Open position at Park Cities Presbyterian Church - Full-time Senior Director of Urban Missions
+title: Open position at Park Cities Presbyterian Church - Full-time Senior Director
+  of Urban Missions
 date: 2017-05-03 14:35
 expires: 2017-09-04 00:00
 publish: false
