@@ -1,8 +1,9 @@
 ---
-title: Open position at Park Cities Presbyterian Church - Full-time Ministry Leader of Preschool
+title: Open position at Park Cities Presbyterian Church - Full-time Ministry Leader
+  of Preschool
 date: 2016-12-07 00:00
 expires: 2017-06-19 00:00
-publish: yes
+publish: true
 ---
 
 Reports to:  
