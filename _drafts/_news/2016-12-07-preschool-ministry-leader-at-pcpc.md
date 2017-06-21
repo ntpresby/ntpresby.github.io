@@ -3,7 +3,7 @@ title: Open position at Park Cities Presbyterian Church - Full-time Ministry Lea
   of Preschool
 date: 2016-12-07 00:00
 expires: 2017-06-19 00:00
-publish: true
+publish: ''
 ---
 
 Reports to:  
