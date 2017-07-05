@@ -1,0 +1,9 @@
+---
+title: Open position at Park Cities Presbyterian Church - Full-time Database Administrator
+date: 2017-07-04 00:00
+expires: 2017-08-27 00:00
+publish: true
+---
+
+
+The technical purpose is to administrate the following: information and data services (through one centralized and shared ministry database - Arena/Shelby), with credible data integrity, while managing accurate and complete database records and producing precise information when needed in various reports. In addition, use programming language SQL (Structured Query Language) to retrieve specific data when needed. Culturally the purpose is facilitate the following: orient staff to the database as an active ministry tool to increase the fruitfulness of individual ministries, and facilitate a collaborative and shared empowerment for making real-time updates to the database based on acceptable levels of security risk, and facilitate an ongoing training plan, and audit plan, to ensure target data integrity. Responsibilities include: design & development, structure, codes, security, registrations, reporting, needs assessment, training, vendor management, and financial applications support coordination. College degree preferred but not required. Certified Arena Consultant preferred. Five years’ experience administrating Arena/Shelby database preferred. Expertise in SQL preferred. Microsoft SQL server certificates a bonus. Experience in authoring SSRS reports a bonus. Experience preferred as a collaborative cultural influencer with ministries to help them use the database as an active ministry tool to increase fruitfulness. The job description can be viewed at [jobsatpcpc.org](https://jobsatpcpc.org). To apply, please send a resume’ to [careers@pcpc.org](mailto:careers@pcpc.org). If questions, please email [database@pcpc.org](mailto:database@pcpc.org).
