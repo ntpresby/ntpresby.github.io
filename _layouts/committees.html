@@ -8,7 +8,9 @@ layout: default
   {% for member in page.members %}
   <dl class="committee-member-item">
     <dt>
-      {% if member.email != '' or member.email %}
+      {% if member.email %}
+        <a href="mailto:{{ member.email }}" title="Email {{ member.name }}">{{ member.name }}</a>
+      {% elsif member.email != '' or member.email %}
         <a href="mailto:{{ member.email }}" title="Email {{ member.name }}">{{ member.name }}</a>
       {% else  %}
         {{ member.name }}
