@@ -39,6 +39,7 @@ members:
 - name: Matt Wood
   church: Grace & Peace Presbyterian Church - Anna
   church_office: Teaching Elder
+- {}
 important_dates:
 - name: 'Floor Exams:'
   dates:
