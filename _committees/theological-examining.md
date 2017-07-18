@@ -39,7 +39,6 @@ members:
 - name: Matt Wood
   church: Grace & Peace Presbyterian Church - Anna
   church_office: Teaching Elder
-- {}
 important_dates:
 - name: 'Floor Exams:'
   dates:
@@ -51,6 +50,7 @@ important_dates:
   dates:
   - date: '2017-07-20'
   - date: '2017-10-12'
+  - date: '2017-07-18T19:47:37.888Z'
   note: 'Note: All written exams are due at least one week before the Oral exam dates.'
 documents:
 - name: Preparing for Licensure and Ordination Exams
