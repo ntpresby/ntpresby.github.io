@@ -10,7 +10,7 @@ layout: default
     <dt>
       {% if member.email %}
         <a href="mailto:{{ member.email }}" title="Email {{ member.name }}">{{ member.name }}</a>
-      {% elsif member.email != '' or member.email %}
+      {% elsif member.email != '' %}
         <a href="mailto:{{ member.email }}" title="Email {{ member.name }}">{{ member.name }}</a>
       {% else  %}
         {{ member.name }}
