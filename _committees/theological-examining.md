@@ -50,7 +50,7 @@ important_dates:
   dates:
   - date: '2017-07-20'
   - date: '2017-10-12'
-  note: 'Note: All written exams are due at least one week before the Oral exam dates.'
+  note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 documents:
 - name: Preparing for Licensure and Ordination Exams
   url: https://www.cepbookstore.com/p-1765-preparing-for-licensure-ordi.aspx
