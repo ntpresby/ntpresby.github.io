@@ -26,7 +26,9 @@ layout: default
           {% endif %}
         {% endif %}
         {% if member.church %}{{ member.church }}<br />{% endif %}
-        {% if member.campus-ministry %}{{ member.campus-ministry }}<br />{% endif %}
+        {% if member.campus-ministry %}
+          {% if member.campus-ministry != '' %}{{ member.campus-ministry }}<br />{% endif %}
+        {% endif %}
         {% if member.church_office %}{{ member.church_office }}<br />{% endif %}
       </p>
     </dd>
