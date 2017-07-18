@@ -20,7 +20,11 @@ layout: default
     </dt>
     <dd>
       <p>
-        {% if member.committee_role %}{{ member.committee_role }}<br />{% endif %}
+        {% if member.committee_role %}
+          {% if member.committee_role != '' %}
+            {{ member.committee_role }}<br />
+          {% endif %}
+        {% endif %}
         {% if member.church %}{{ member.church }}<br />{% endif %}
         {% if member.campus-ministry %}{{ member.campus-ministry }}<br />{% endif %}
         {% if member.church_office %}{{ member.church_office }}<br />{% endif %}
