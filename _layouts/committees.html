@@ -11,6 +11,8 @@ layout: default
       {% if member.email %}
         {% if member.email != '' %}
           <a href="mailto:{{ member.email }}" title="Email {{ member.name }}">{{ member.name }}</a>
+          {% else %}
+          {{ member.name }}
         {% endif %}
       {% else  %}
         {{ member.name }}
