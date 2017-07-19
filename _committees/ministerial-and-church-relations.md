@@ -8,21 +8,8 @@ members:
   church_office: Teaching Elder
   committee_role: Chairman  
  -
-  name: Jim Leckie
-  church: Christ the King Presbyterian Church - Norman
-  church_office: Ruling Elder
-  committee_role: Clerk
- -
-  name: Beau Berman
-  church: Ethos Presbyterian Church - Tulsa
-  church_office: Teaching Elder
- -
   name: Jeff Hatton
   church: Redeemer Presbyterian Church - Waco
-  church_office: Teaching Elder
- -
-  name: Pete Hatton
-  church: Redeemer Presbyterian Church - Edmond
   church_office: Teaching Elder
  -
   name: John Hawkins

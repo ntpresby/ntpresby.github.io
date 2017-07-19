@@ -24,10 +24,6 @@ members:
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
  -
-  name: Michael Philiber
-  church: Heritage Presbyterian Church - Edmond
-  church_office: Teaching Elder
- -
   name: Patrick Poteet
   church: Christ Community Church - Frisco
   church_office: Teaching Elder

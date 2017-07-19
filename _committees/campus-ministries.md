@@ -29,10 +29,6 @@ members:
     church: New St. Peter's Presbyterian Church - Dallas
     church_office: Ruling Elder
   -
-    name: Doug Serven
-    church: City Presbyterian Church - Oklahoma City
-    church_office: Teaching Elder
-  -
     name: Bill Thomas
     church: Park Cities Presbyterian Church - Dallas
     church_office: Ruling Elder

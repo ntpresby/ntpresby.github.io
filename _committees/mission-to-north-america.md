@@ -19,10 +19,6 @@ members:
   church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Ruling Elder
  -
-  name: Jeremy Fair
-  church: Christ Presbyterian Church - Tulsa
-  church_office: Teaching Elder
- -
   name: Rick Owens
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder

@@ -23,8 +23,4 @@ members:
   name: Justin Hilliard
   church: Faith Presbyterian Church - Paris
   church_office: Teaching Elder
- -
-  name: Jim Leckie
-  church: Christ the King Presbyterian Church - Norman
-  church_office: Ruling Elder
 ---
