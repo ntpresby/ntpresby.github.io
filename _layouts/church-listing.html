@@ -5,12 +5,10 @@ layout: default
 
 {% assign churches_address = site.churches | sort: 'address_city' %}
 {% assign group_by_tx = churches_address | where: 'address_state','TX' | group_by: 'address_city' %}
-{% assign group_by_ok = churches_address | where: 'address_state','OK' | group_by: 'address_city' %}
 {% assign group_by_la = churches_address | where: 'address_state','LA' | group_by: 'address_city' %}
 
 {% comment %}
   {{ group_by_tx }}
-  {{ group_by_ok }}
   {{ group_by_la }}
 {% endcomment %}
 
@@ -26,19 +24,7 @@ layout: default
     {% endfor %}
   </dl>
 </div>
-<br />
-<hr />
-<br />
-<div class="section-label column span-7">
-  <h2>Oklahoma {{ page.title }}</h2>
-</div>
-<div class="column span-17 last">
-  <dl class="church-list">
-    {% for cities in group_by_ok %}
-      {% include cities.html %}
-    {% endfor %}
-  </dl>
-</div>
+
 {% if group_by_la %}
 <br />
 <hr />
