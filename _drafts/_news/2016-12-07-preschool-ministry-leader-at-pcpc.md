@@ -1,8 +1,8 @@
 ---
+date: 2017-07-04 00:00:00 +0000
+expires: 2017-08-14 00:00:00 -0500
+publish: ''
 title: Open position at Park Cities Presbyterian Church - Full-time Database Administrator
-date: 2017-07-04 00:00
-expires: 2017-08-27 00:00
-publish: true
 ---
 
 
