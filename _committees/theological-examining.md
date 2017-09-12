@@ -21,7 +21,7 @@ documents:
   url: ''
   author: ''
 - name: Transfer from Another Denomination to the PCA
-  file: ''
+  file: "/uploads/2017/09/12/Transfer_from_another_denomination_to_PCA.pdf"
   url: ''
   author: ''
 - name: Licensure and Ordination Procedures for Men Transferring from Another Denomination
