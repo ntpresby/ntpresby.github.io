@@ -67,10 +67,14 @@ layout: default
     <dl class="download ">
       <dt>
         {% if doc.file %}
-          <a href="{{ site.file_uploads }}/{{ doc.file }}" title="{{ doc.file }}" target="_blank">{{ doc.name }}</a>
+          {% if doc.file != '' %}
+            <a href="{{ doc.file }}" title="{{ doc.file }}" target="_blank">{{ doc.name }}</a>
+          {% endif %}
         {% endif %}
         {% if doc.url %}
+          {% if doc.url != '' %}
           <a href="{{ doc.url }}" title="Go to {{ doc.name }}" target="_blank">{{ doc.name }}</a>
+          {% endif %}
         {% endif %}
       </dt>
     </dl>
