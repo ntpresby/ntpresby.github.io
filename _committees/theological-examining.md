@@ -8,6 +8,10 @@ documents:
   file: "/uploads/2017/09/12/NTP_Licensure_Requirements.pdf"
   url: ''
   author: ''
+- name: Ordination Requirements
+  file: "/uploads/2017/09/12/Ordination_Requirements.pdf"
+  url: ''
+  author: ''
 - name: Licensure and Ordination Procedures for Men Transferring from Another Denomination
   file: "/uploads/2017/09/12/LicensureOrdinationTransferringFromAnotherDenomination.pdf"
   url: ''
