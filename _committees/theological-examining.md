@@ -12,16 +12,20 @@ documents:
   file: "/uploads/2017/09/12/Ordination_Requirements-1.pdf"
   url: ''
   author: ''
+- name: Stated Differences and Views Document
+  file: "/uploads/2017/09/12/Views_TEC_NTP.pdf"
+  url: ''
+  author: ''
 - name: Transfer from Another Presbytery in the PCA
   file: "/uploads/2017/09/12/Transfer_from_another_Presbytery_PCA.pdf"
   url: ''
   author: ''
-- name: Licensure and Ordination Procedures for Men Transferring from Another Denomination
-  file: "/uploads/2017/09/12/LicensureOrdinationTransferringFromAnotherDenomination.pdf"
+- name: Transfer from Another Denomination to the PCA
+  file: ''
   url: ''
   author: ''
-- name: Stated Differences and Views Document
-  file: "/uploads/2017/09/12/Views_TEC_NTP.pdf"
+- name: Licensure and Ordination Procedures for Men Transferring from Another Denomination
+  file: "/uploads/2017/09/12/LicensureOrdinationTransferringFromAnotherDenomination.pdf"
   url: ''
   author: ''
 important_dates:
