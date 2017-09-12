@@ -21,7 +21,7 @@ denomination:
   url: http://pcanet.org
 
 # File settings
-file_uploads: /workspace/uploads/files
+#file_uploads: /workspace/uploads/files
 
 # Build settings
 markdown: kramdown
