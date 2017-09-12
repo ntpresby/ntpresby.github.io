@@ -4,6 +4,10 @@ documents:
 - author: Chapell and Meek
   name: Preparing for Licensure and Ordination Exams
   url: https://pcabookstore.com/p-1765-preparing-for-licensure-and-or.aspx
+- name: Licensure Requirements
+  file: "/uploads/2017/09/12/NTP_Licensure_Requirements.pdf"
+  url: ''
+  author: ''
 - name: Licensure and Ordination Procedures for Men Transferring from Another Denomination
   file: "/uploads/2017/09/12/LicensureOrdinationTransferringFromAnotherDenomination.pdf"
   url: ''
