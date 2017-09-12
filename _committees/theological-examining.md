@@ -42,18 +42,18 @@ members:
 important_dates:
 - name: 'Floor Exams:'
   dates:
-  - date: '2017-02-03'
-  - date: '2017-05-05'
-  - date: '2017-08-11'
-  - date: '2017-11-03'
+  - date: 2017-02-03 00:00:00 +0000
+  - date: 2017-05-05 00:00:00 +0000
+  - date: 2017-08-11 00:00:00 +0000
+  - date: 2017-11-03 00:00:00 +0000
 - name: 'TEC Oral Exams (Thursdays beginning at 9am, Fort Worth Presbyterian Church):'
   dates:
-  - date: '2017-07-20'
-  - date: '2017-10-12'
+  - date: 2017-07-20 00:00:00 +0000
+  - date: 2017-10-12 00:00:00 +0000
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 documents:
 - name: Preparing for Licensure and Ordination Exams
-  url: https://www.cepbookstore.com/p-1765-preparing-for-licensure-ordi.aspx
+  url: https://pcabookstore.com/p-1765-preparing-for-licensure-and-or.aspx
   author: Chapell and Meek
-date: '2017-05-04T00:42:59.865+00:00'
+date: 2017-05-04 00:42:59 +0000
 ---

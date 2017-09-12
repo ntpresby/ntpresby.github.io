@@ -1,0 +1,102 @@
+---
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: members
+  label: Members
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: church
+    label: Church
+    type: text
+    hidden: false
+    default: ''
+  - name: church_office
+    label: Church office
+    type: text
+    hidden: false
+    default: ''
+  - name: committee_role
+    label: Committee role
+    type: text
+    hidden: false
+    default: ''
+  - name: campus_ministry
+    label: Campus ministry
+    type: text
+    hidden: false
+    default: ''
+  - name: email
+    label: Email
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: documents
+  label: Documents
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: file
+    label: File
+    type: file
+    hidden: false
+    default: ''
+  - name: url
+    label: Url
+    type: text
+    hidden: false
+    default: ''
+  - name: author
+    label: Author
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: important_dates
+  label: Important dates
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: dates
+    label: Dates
+    type: field_group_list
+    fields:
+    - name: date
+      label: Date
+      type: datetime
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''

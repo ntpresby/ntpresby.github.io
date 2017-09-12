@@ -1,0 +1,58 @@
+---
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+- name: address_street
+  label: Address street
+  type: text
+  hidden: false
+  default: ''
+- name: address_city
+  label: Address city
+  type: text
+  hidden: false
+  default: ''
+- name: address_state
+  label: Address state
+  type: text
+  hidden: false
+  default: ''
+- name: address_zipcode
+  label: Address zipcode
+  type: text
+  hidden: false
+  default: ''
+- name: address_geocode
+  label: Address geocode
+  type: text
+  hidden: false
+  default: ''
+- name: phone
+  label: Phone
+  type: text
+  hidden: false
+  default: ''
+- name: website
+  label: Website
+  type: text
+  hidden: false
+  default: ''
