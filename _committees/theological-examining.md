@@ -4,10 +4,6 @@ documents:
 - author: Chapell and Meek
   name: Preparing for Licensure and Ordination Exams
   url: https://pcabookstore.com/p-1765-preparing-for-licensure-and-or.aspx
-- name: Stated Differences and Views Document
-  file: "/uploads/2017/09/12/Views_TEC_NTP.pdf"
-  url: ''
-  author: ''
 important_dates:
 - dates:
   - date: 2017-02-03 00:00:00 +0000
