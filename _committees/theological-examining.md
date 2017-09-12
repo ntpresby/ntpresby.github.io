@@ -9,7 +9,7 @@ documents:
   url: ''
   author: ''
 - name: Ordination Requirements
-  file: "/uploads/2017/09/12/Ordination_Requirements.pdf"
+  file: "/uploads/2017/09/12/Ordination_Requirements-1.pdf"
   url: ''
   author: ''
 - name: Licensure and Ordination Procedures for Men Transferring from Another Denomination
