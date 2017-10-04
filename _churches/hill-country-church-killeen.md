@@ -12,8 +12,6 @@ website: http://www.hillcountrypca.org
 pastors:
 - name: Lou Best
   senior_minister: true
-- name: Adam Viramontes
-  senior_minister: false
 date: 2017-09-12 23:04:07 +0000
 ---
 
