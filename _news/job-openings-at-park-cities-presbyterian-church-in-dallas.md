@@ -1,7 +1,7 @@
 ---
-title: Job Openings at Park Cities Presbyterian Church in Dallas
-date: 2017-10-11 00:00:00 +0000
+date: 2017-10-11 00:00:00 -0500
 expires: 2017-12-18 00:00:00 -0600
+title: Job Openings at Park Cities Presbyterian Church in Dallas
 ---
 
 
