@@ -1,14 +1,12 @@
 ---
-date: 2017-10-09 00:00
-expires: 2018-01-05 00:00
+date: 2017-10-09 00:00:00 +0000
+expires: 2018-01-05 00:00:00 +0000
 title: Job Openings at Park Cities Presbyterian Church in Dallas
 publish: true
 ---
-
-
 The following positions are open and in need of filling. Click on the titles below to view the full job description.
 
-[Full-time Senior Director of Urban Missions](https://jobsatpcpc.org/job-description/187/)  
+[Director of Communications Ministry](https://jobsatpcpc.org/job-description/201/ "Director of Communications Ministry - Job Opening at PCPC - Dallas")  
 [Part-Time Childcare Worker](https://jobsatpcpc.org/job-description/192/)  
 [Part-Time Coordinator for Facilities & Property Management](https://jobsatpcpc.org/job-description/197/)  
 [Part-Time (15 hours) Female Coordinator of Young Adults](https://jobsatpcpc.org/job-description/199/)  
