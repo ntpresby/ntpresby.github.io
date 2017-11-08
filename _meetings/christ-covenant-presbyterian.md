@@ -5,5 +5,5 @@ place:
   name: Christ Covenant
   location: Mesquite, TX
   link: "/churches/christ-covenant-church-mesquite/"
-end_date: 2017-11-04 14:00:00 -0500
+end_date: 2018-11-03 14:00:00 -0500
 ---
