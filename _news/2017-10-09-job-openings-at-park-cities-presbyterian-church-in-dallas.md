@@ -1,5 +1,5 @@
 ---
-date: 2017-10-09 00:00:00 +0000
+date: 2017-11-08 00:00:00 -0600
 expires: 2018-01-05 00:00:00 +0000
 title: Job Openings at Park Cities Presbyterian Church in Dallas
 publish: true
