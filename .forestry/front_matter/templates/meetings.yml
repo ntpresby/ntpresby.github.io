@@ -1,4 +1,6 @@
 ---
+pages:
+- _meetings/meeting-of-ntp.md
 hide_body: false
 fields:
 - name: title
