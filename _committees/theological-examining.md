@@ -43,9 +43,10 @@ important_dates:
   - date: 2018-11-03 19:00:00 -0500
   name: 'Floor Exams:'
 - dates:
-  - date: 2017-07-20 00:00:00 +0000
-  - date: 2017-10-12 00:00:00 +0000
-  name: 'TEC Oral Exams (Thursdays beginning at 9am, Fort Worth Presbyterian Church):'
+  - date: 2018-04-12 19:00:00 -0500
+  - date: 2018-07-19 19:00:00 -0500
+  - date: 2018-10-11 00:00:00 -0500
+  name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 layout: committees
 members:
