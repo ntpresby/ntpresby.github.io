@@ -2,15 +2,15 @@
 layout: churches
 title: Mercy Presbyterian Church
 slug: mercy-presbyterian-church-dallas
-address_street: Sheraton by the Galleria, 4801 LBJ Fwy
+address_street: Temple Shalom, 6930 Alpha Rd.
 address_city: Dallas
 address_state: TX
-address_zipcode: 75244
-address_geocode: 32.9269232,-96.8251647
+address_zipcode: 75240
+address_geocode: 32.9323814,-96.7871585
 phone: 972-918-5166
 website: http://www.mercydallas.com
 pastors:
-  -
-    name: Rob Hamby
-    senior_minister: Yes
+- name: Rob Hamby
+  senior_minister: true
+date: 2017-10-16 18:13:57 +0000
 ---
