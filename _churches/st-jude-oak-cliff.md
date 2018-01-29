@@ -10,4 +10,7 @@ slug: st-jude-oak-cliff
 layout: churches
 address_geocode: 32.7448043,-96.8259715
 phone: ''
+pastors:
+- name: Martin Ban
+  senior_minister: true
 ---
