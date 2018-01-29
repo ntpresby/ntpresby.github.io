@@ -7,7 +7,7 @@ address_state: TX
 address_zipcode: 75208
 address_street: 136 West 10th Street
 slug: st-jude-oak-cliff
-layout: ''
-address_geocode: ''
+layout: churches
+address_geocode: 32.7448043,-96.8259715
 phone: ''
 ---
