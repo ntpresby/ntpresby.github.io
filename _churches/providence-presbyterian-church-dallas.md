@@ -12,7 +12,9 @@ website: http://www.providencedallas.com
 pastors:
 - name: David Rea
   senior_minister: true
-date: 2017-04-28 09:54
+- name: Nate Libby
+  senior_minister: ''
+date: 2017-04-28 00:00:00 +0000
 ---
 
 
