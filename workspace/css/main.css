@@ -49,12 +49,12 @@ h1#logo a:hover { width:212px; height:159px; outline:none; display:block; backgr
 }
 
 #mainnav ul li a {
-	color: #0d66a2;
+	color: #587283;
 	text-decoration: none;
 }
 
 #mainnav ul li a:hover {
-	color: #115583;
+	color: #587283;
 }
 
 
@@ -99,7 +99,7 @@ div.section-label p {
 
 
 .home-feature-set h3, h3.meeting-name, h3.recent-news-name {
-	color: #062555;
+	color: #ba1a1a;
 	font: italic normal 20px/120% Georgia, "Times New Roman", Times, serif;
 	margin: 0 0 4px 0;
 } 
