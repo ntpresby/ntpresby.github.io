@@ -10,13 +10,11 @@ address_geocode: 33.0836642,-96.7949057
 phone: 972-335-3844
 website: http://www.trinityplano.org
 pastors:
-  -
-    name: Mike Rasmussen
-    senior_minister: Yes
-  -
-    name: Michael Wichlan
-    senior_minister: No
-  -
-    name: Derek Tu
-    senior_minister: No
+- name: Mike Rasmussen
+  senior_minister: true
+- name: Jeff Morrow
+  senior_minister: false
+- name: Derek Tu
+  senior_minister: false
+date: 2018-02-04 06:32:49 +0000
 ---
