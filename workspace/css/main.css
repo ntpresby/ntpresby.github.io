@@ -25,13 +25,13 @@ body.ntp {
 h1#logo {
 	background: url(../images/ntpresby-logo.png) no-repeat;
 	width: 212px;
-	height: 168px;
+	height: 159px;
 	margin-left: 18px;
 	text-indent: -9999px;
 }
 
-h1#logo a { width:212px; height:168px; outline:none; display:block; }
-h1#logo a:hover { width:212px; height:168px; outline:none; display:block; background: url(../images/ntpresby-logo-home-rollover.png) no-repeat;}
+h1#logo a { width:212px; height:159px; outline:none; display:block; }
+h1#logo a:hover { width:212px; height:159px; outline:none; display:block; background: url(../images/ntpresby-logo.png) no-repeat;}
 
 #mainnav ul {
 	margin: 0;
