@@ -12,6 +12,8 @@ website: http://www.hillcountrypca.org
 pastors:
 - name: Lou Best
   senior_minister: true
+- name: Joel Spence
+  senior_minister: ''
 date: 2017-09-12 23:04:07 +0000
 ---
 
