@@ -9,10 +9,12 @@ address_zipcode: 76092
 address_geocode: 32.9335565,-97.1935597
 phone: 817-431-0151
 website: http://www.lakesidepca.org
-pastors: 
-  - 
-    name: David Boxerman
-    senior_minister: No
+pastors:
+- name: David Boxerman
+  senior_minister: false
+- name: James Jessup
+  senior_minister: ''
+date: 2018-02-04 06:32:49 +0000
 ---
 
 
