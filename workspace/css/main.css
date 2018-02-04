@@ -49,12 +49,12 @@ h1#logo a:hover { width:212px; height:159px; outline:none; display:block; backgr
 }
 
 #mainnav ul li a {
-	color: #929A92;
+	color: #0d66a2;
 	text-decoration: none;
 }
 
 #mainnav ul li a:hover {
-	color: #7C8560;
+	color: #115583;
 }
 
 
