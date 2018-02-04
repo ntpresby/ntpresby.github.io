@@ -5,18 +5,14 @@ slug: redeemer-presbyterian-church-mckinney
 address_street: 7820 Silverado Trail
 address_city: McKinney
 address_state: TX
-address_zipcode:
+address_zipcode: 
 address_geocode: 33.1600916,-96.7164713
 phone: 972-529-1502
 website: http://www.redeemer-mckinney.org
 pastors:
-  -
-    name: Bryant McGee
-    senior_minister: Yes
-  -
-    name: Mark Belonga
-    senior_minister: No
-  -
-    name: Paul Miller
-    senior_minister: No
+- name: Jordan Stone
+  senior_minister: true
+- name: Mark Belonga
+  senior_minister: false
+date: 2018-02-04 06:32:49 +0000
 ---
