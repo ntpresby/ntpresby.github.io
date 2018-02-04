@@ -10,10 +10,7 @@ address_geocode: 32.9942130,-96.8431060
 phone: 972-248-4401
 website: http://www.bethelchurchpca.org
 pastors:
-  -
-    name: Anton Huess
-    senior_minister: Yes
-  -
-    name: Brian Tsui
-    senior_minister: No
+- name: Anton Huess
+  senior_minister: true
+date: 2018-02-04 06:20:18 +0000
 ---
