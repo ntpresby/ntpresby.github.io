@@ -9,7 +9,9 @@ address_zipcode: 76107
 address_geocode: 32.7398477,-97.3907974
 website: http://trinitypresfw.org
 pastors:
-  -
-    name: Brian Davis
-    senior_minister: Yes
+- name: Brian Davis
+  senior_minister: true
+- name: Steve Percifield
+  senior_minister: ''
+date: 2018-02-04 06:32:49 +0000
 ---
