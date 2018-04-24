@@ -5,6 +5,7 @@ pages:
 - _meetings/meeting-of-ntp-1.md
 - _meetings/meeting-of-ntp.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
