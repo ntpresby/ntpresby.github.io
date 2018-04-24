@@ -6,15 +6,18 @@ members:
   church: Park Cities Presbyterian Church - Dallas
   church_office: Teaching Elder
   committee_role: Chairman
-- name: David Boxerman
-  church: Lakeside Presbyterian Church - Southlake
-  church_office: Teaching Elder
 - name: Kevin Gladding
   church: Christ the King Presbyterian Church - Desoto
   church_office: Teaching Elder
 - name: Tim Jeffress
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
+- name: Tim Jessup
+  church: Lakeside Presbyterian Church - Southlake
+  church_office: Teaching Elder
+- name: Phillip Maxwell
+  church: Fort Worth Presbyterian Church - Fort Worth
+  church_office: Teaching Elder
 - name: Bobby Payne
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
@@ -24,9 +27,6 @@ members:
 - name: Rey Rivera
   church: Cristo Rey Presbyterian Church - Dallas
   church_office: Ruling Elder
-- name: Michael Wichlan
-  church: Trinity Presbyterian Church - Plano
-  church_office: Teaching Elder
 documents:
 - name: Candidates Calendar (2018)
   file: "/uploads/2018/01/17/Candidates_Committee_Calendar_2018.pdf"
