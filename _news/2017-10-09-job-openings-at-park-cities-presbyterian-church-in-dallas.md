@@ -7,4 +7,6 @@ publish: true
 The following positions are open and in need of filling. Click on the titles below to view the full job description.
 
 [Full-Time Director of Communications Ministry](https://jobsatpcpc.org/job-description/201/ "Director of Communications Ministry - Job Opening at PCPC - Dallas")  
-[Part-Time Childcare Worker](https://jobsatpcpc.org/job-description/192/)
+[Ministry Leader & Discipler for Short-Term Missions](https://jobsatpcpc.org/job-description/133/)  
+[Coordinator of Missions and Church Planting](https://jobsatpcpc.org/job-description/106/)  
+[Part-Time Sexton](https://jobsatpcpc.org/job-description/205/)
