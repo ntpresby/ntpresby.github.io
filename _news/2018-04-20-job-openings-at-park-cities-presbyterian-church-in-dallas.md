@@ -8,5 +8,4 @@ The following positions are open and in need of filling. Click on the titles bel
 
 [Full-Time Director of Communications Ministry](https://jobsatpcpc.org/job-description/201/ "Director of Communications Ministry - Job Opening at PCPC - Dallas")  
 [Ministry Leader & Discipler for Short-Term Missions](https://jobsatpcpc.org/job-description/133/)  
-[Coordinator of Missions and Church Planting](https://jobsatpcpc.org/job-description/106/)  
-[Part-Time Admin Assistant to PCPC Foundation](https://jobsatpcpc.org/job-description/171/ "Part-Time Admin Assistant to PCPC Foundation")
+[Coordinator of Missions and Church Planting](https://jobsatpcpc.org/job-description/106/)
