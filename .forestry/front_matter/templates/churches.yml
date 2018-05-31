@@ -1,6 +1,4 @@
 ---
-pages:
-- _churches/st-jude-oak-cliff.md
 hide_body: false
 is_partial: false
 fields:
@@ -69,3 +67,5 @@ fields:
   - type: boolean
     name: senior_minister
     label: Senior Minister
+pages:
+- _churches/st-jude-oak-cliff.md
