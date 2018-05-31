@@ -1,6 +1,6 @@
 ---
 title: Meeting of NTP
-date: 2018-11-03 19:00:00 +0000
+date: 2018-11-03 14:00:00 -0500
 end_date: 2018-11-04 14:00:00 +0000
 place:
   name: For the Nations Outreach
