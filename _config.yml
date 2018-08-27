@@ -15,6 +15,8 @@ url: "http://ntpresby.org" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username: ntpresby
 
+timezone: America/Chicago
+
 denomination:
   name: Presbyterian Church in America
   acronym: PCA
