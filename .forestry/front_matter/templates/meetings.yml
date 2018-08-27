@@ -14,14 +14,14 @@ fields:
   hidden: false
   default: ''
   config:
-    display_utc: true
+    display_utc: false
 - name: end_date
   label: End date
   type: datetime
   hidden: false
   default: ''
   config:
-    display_utc: true
+    display_utc: false
 - name: place
   label: Place
   type: field_group
