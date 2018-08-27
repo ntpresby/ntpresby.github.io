@@ -6,6 +6,5 @@ place:
   name: Trinity Presbyterian - Plano
   location: 4701 Hedgcoxe Road Plano, TX 75024
   link: http://www.trinityplano.org/
-published: false
 
 ---
