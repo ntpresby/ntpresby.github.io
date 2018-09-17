@@ -13,8 +13,7 @@ pastors:
 - name: David Rea
   senior_minister: true
 - name: Nate Libby
-  senior_minister: ''
+  senior_minister: false
 date: 2017-04-28 00:00:00 +0000
+
 ---
-
-
