@@ -5,7 +5,7 @@ documents:
   name: Preparing for Licensure and Ordination Exams
   url: https://pcabookstore.com/p-1765-preparing-for-licensure-and-or.aspx
 - name: Licensure Requirements
-  file: "/uploads/2017/09/12/NTP_Licensure_Requirements.pdf"
+  file: "/uploads/2018/09/21/NTP_Licensure_Requirements.pdf"
   url: ''
   author: ''
 - name: Ordination Requirements
@@ -30,23 +30,23 @@ documents:
   author: ''
 important_dates:
 - dates:
-  - date: 2018-04-02 00:00:00 -0500
-  - date: 2018-07-09 00:00:00 -0500
-  - date: 2018-10-01 00:00:00 -0500
+  - date: 2018-04-02 05:00:00 +0000
+  - date: 2018-07-09 05:00:00 +0000
+  - date: 2018-10-01 05:00:00 +0000
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
-  - date: 2018-04-12 19:00:00 -0500
-  - date: 2018-07-19 19:00:00 -0500
-  - date: 2018-10-11 00:00:00 -0500
+  - date: 2018-04-13 00:00:00 +0000
+  - date: 2018-07-20 00:00:00 +0000
+  - date: 2018-10-11 05:00:00 +0000
   name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 - dates:
-  - date: 2018-05-04 18:00:00 -0500
-  - date: 2018-05-05 19:00:00 -0500
-  - date: 2018-08-10 19:00:00 -0500
-  - date: 2018-08-11 00:00:00 -0500
-  - date: 2018-11-02 00:00:00 -0500
-  - date: 2018-11-03 19:00:00 -0500
+  - date: 2018-05-04 23:00:00 +0000
+  - date: 2018-05-06 00:00:00 +0000
+  - date: 2018-08-11 00:00:00 +0000
+  - date: 2018-08-11 05:00:00 +0000
+  - date: 2018-11-02 05:00:00 +0000
+  - date: 2018-11-04 00:00:00 +0000
   name: 'Floor Exams:'
 layout: committees
 members:
@@ -88,4 +88,5 @@ members:
   church_office: Teaching Elder
   name: Matt Wood
 title: Theological Examining
+
 ---
