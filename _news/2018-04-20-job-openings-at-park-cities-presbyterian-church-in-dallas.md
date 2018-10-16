@@ -8,5 +8,4 @@ publish: true
 The following position is open and in need of filling. Click on the title below to view the full job description.
 
 [Full-Time Worship & Arts Production Manager](https://jobsatpcpc.org/job-description/209/ "Full-Time Worship & Arts Production Manager")  
-[Part-Time Young Adult Female Discipler](https://jobsatpcpc.org/job-description/200/ "Part-Time Young Adult Female Discipler")  
-[Part-Time Childcare Worker](https://jobsatpcpc.org/job-description/192/ "Part-Time Childcare Worker")
+[Part-Time Young Adult Female Discipler](https://jobsatpcpc.org/job-description/200/ "Part-Time Young Adult Female Discipler")
