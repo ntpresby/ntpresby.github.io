@@ -25,7 +25,9 @@ layout: default
             {{ member.committee_role }}<br />
           {% endif %}
         {% endif %}
-        {% if member.church != '' %}{{ member.church }}<br />{% endif %}
+        {% if member.church %}
+          {% if member.church != '' %}{{ member.church }}<br />{% endif %}
+        {% endif %}
         {% if member.campus_ministry %}
           {% if member.campus_ministry != '' %}{{ member.campus_ministry }}<br />{% endif %}
         {% endif %}
