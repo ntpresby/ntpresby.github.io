@@ -12,6 +12,7 @@ pastors:
 - name: Brian Davis
   senior_minister: true
 - name: Steve Percifield
-  senior_minister: ''
+  senior_minister: true
 date: 2018-02-04 06:32:49 +0000
+
 ---
