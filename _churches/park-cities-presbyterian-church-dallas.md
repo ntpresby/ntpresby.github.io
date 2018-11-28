@@ -26,9 +26,8 @@ pastors:
   senior_minister: false
 - name: Tommy Overton
   senior_minister: false
-- name: Chad Scruggs
-  senior_minister: false
 - name: Ron Williams
   senior_minister: false
 date: 2017-10-16 18:13:57 +0000
+
 ---
