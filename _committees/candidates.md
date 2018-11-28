@@ -6,9 +6,6 @@ members:
   church: Park Cities Presbyterian Church - Dallas
   church_office: Teaching Elder
   committee_role: Chairman
-- name: Kevin Gladding
-  church: Christ the King Presbyterian Church - Desoto
-  church_office: Teaching Elder
 - name: Tim Jeffress
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
@@ -27,6 +24,12 @@ members:
 - name: Rey Rivera
   church: Cristo Rey Presbyterian Church - Dallas
   church_office: Ruling Elder
+- name: Matt Wood
+  church: Grace and Peace Presbyterian - Anna
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 documents:
 - name: Candidates Calendar (2018)
   file: "/uploads/2018/01/17/Candidates_Committee_Calendar_2018.pdf"
@@ -45,4 +48,5 @@ documents:
 - name: Things You'll Want to Know
   file: "/workspace/uploads/files/Things_You_will_Want_to_Know.pdf"
 date: 2017-10-16 18:13:57 +0000
+
 ---
