@@ -9,14 +9,11 @@ members:
 - name: Jeff Hatton
   church: Redeemer Presbyterian Church - Waco
   church_office: Teaching Elder
-- name: John Hawkins
-  church: Park Cities Presbyterian Church - Dallas
-  church_office: Ruling Elder
 - name: Kenneth Kneip
   church: New Covenant Presbyterian Church - Dallas
   church_office: Ruling Elder
-- name: Wes O'Neill
-  church: Arlington Presbyterian Church - Arlington
+- name: Kyle Oliphint
+  church: Grace Community Presbyterian Church - Fort Worth
   church_office: Teaching Elder
 - name: Ronnie Rowe
   church: Providence Presbyterian Church - Lubbock
