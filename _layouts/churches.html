@@ -11,7 +11,7 @@ layout: default
   <p>
     <strong>Pastoral Staff</strong>
     {% for pastor in page.pastors %}
-    <br />{{ pastor.name }}{% if pastor.senior_minister = true %}, Senior Minister{% endif %}
+    <br />{{ pastor.name }}{% if pastor.senior_minister == true %}, Senior Minister{% endif %}
     {% endfor %}
   </p>
   {% endif %}
