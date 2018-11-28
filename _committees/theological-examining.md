@@ -69,24 +69,45 @@ members:
 - church: New St. Peters Presbyterian Church - Dallas
   church_office: Teaching Elder
   name: John Buerger
-- church: New St. Peter's Presbyterian Church - Dallas
-  church_office: Ruling Elder
-  name: Jeff Murray
-- church: Park Cities Presbyterian Church - Dallas
+- name: Todd Gwennap
+  church: Christ the King Presbyterian Church - Desoto
   church_office: Teaching Elder
-  name: Chad Scruggs
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Lee Hall
+  church: Redeemer Presbyterian Church - McKinney
+  church_office: Ruling Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Tim Jeffress
+  church: Park Cities Presbyterian Church - Dallas
+  church_office: Ruling Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - campus_ministry: ''
   church: Redeemer Presbyterian Church - Amarillo
   church_office: Teaching Elder
   committee_role: ''
   email: ''
   name: Chris Thomas
+- name: Jon Marq Toombs
+  church: Christ Covenant Church - Mesquite
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Ruling Elder
   name: John Weiser
-- church: Grace & Peace Presbyterian Church - Anna
-  church_office: Teaching Elder
-  name: Matt Wood
+- name: David Westerfield
+  church: Trinity Presbyterian Church - Fort Worth
+  church_office: Ruling Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 title: Theological Examining
 
 ---
