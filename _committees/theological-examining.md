@@ -42,12 +42,10 @@ important_dates:
   name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 - dates:
-  - date: 2018-05-04 23:00:00 +0000
-  - date: 2018-05-06 00:00:00 +0000
-  - date: 2018-08-11 00:00:00 +0000
-  - date: 2018-08-11 05:00:00 +0000
-  - date: 2018-11-02 05:00:00 +0000
-  - date: 2018-11-04 00:00:00 +0000
+  - date: 2019-02-01 19:00:00 -0600
+  - date: 2019-02-02 00:00:00 -0600
+  - date: 2019-05-03 00:00:00 -0500
+  - date: 2019-05-04 19:00:00 -0500
   name: 'Floor Exams:'
 layout: committees
 members:
