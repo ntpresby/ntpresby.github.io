@@ -35,9 +35,10 @@ important_dates:
   - date: 2019-09-30 00:00:00 -0500
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
-  - date: 2018-04-13 00:00:00 +0000
-  - date: 2018-07-20 00:00:00 +0000
-  - date: 2018-10-11 05:00:00 +0000
+  - date: 2019-01-10 00:00:00 -0600
+  - date: 2019-04-11 19:00:00 -0500
+  - date: 2019-07-18 19:00:00 -0500
+  - date: 2019-10-10 00:00:00 -0500
   name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 - dates:
