@@ -30,9 +30,9 @@ documents:
   author: ''
 important_dates:
 - dates:
-  - date: 2018-04-02 05:00:00 +0000
-  - date: 2018-07-09 05:00:00 +0000
-  - date: 2018-10-01 05:00:00 +0000
+  - date: 2019-04-01 00:00:00 -0500
+  - date: 2019-07-08 00:00:00 -0500
+  - date: 2019-09-30 00:00:00 -0500
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
   - date: 2018-04-13 00:00:00 +0000
