@@ -2,9 +2,9 @@
 layout: committees
 title: Administrative
 members:
-- name: Bill Thomas
-  church: Park Cities Presbyterian Church - Dallas
-  church_office: Ruling Elder
+- name: Josh Anderson
+  church: Colleyville Presbyterian Church - Colleyville
+  church_office: Teaching Elder
   committee_role: Moderator
 - name: Joe Abbate
   church: Park Cities Presbyterian Church - Dallas
@@ -26,4 +26,5 @@ documents:
 - name: The Standing Rules of the North Texas Presbytery
   file: "/uploads/2018/02/04/20180203_NTPresby_StandingRules_Revised.pdf"
 date: 2018-02-04 06:13:58 +0000
+
 ---
