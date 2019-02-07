@@ -1,11 +1,11 @@
 ---
 title: Meeting of NTP
-date: 2019-02-02 01:00:00 +0000
-end_date: 2019-02-02 20:00:00 +0000
+date: 2019-11-01 19:00:00 -0500
+end_date: 2019-11-02 14:00:00 -0500
 place:
-  name: Trinity Presbyterian - Plano
-  location: 4701 Hedgcoxe Road Plano, TX 75024
-  link: http://www.trinityplano.org/
+  name: Town North Presbyterian - Richardson
+  location: 1776 N. Plano Road Richardson, TX 75081
+  link: https://www.tnpc.org/
 published: false
 
 ---
