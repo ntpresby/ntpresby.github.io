@@ -6,6 +6,5 @@ place:
   name: Lakeside Presbyterian Church - Southlake
   location: 2701 West Southlake Blvd Southlake, TX 76092
   link: https://www.lakesidepca.org/
-published: false
 
 ---
