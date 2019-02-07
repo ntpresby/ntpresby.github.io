@@ -6,6 +6,5 @@ place:
   name: Christ Covenant Presbyterian - Mesquite
   location: 2850 Eastglen Blvd Mesquite, TX 75181
   link: http://christcovenantc.com/
-published: false
 
 ---
