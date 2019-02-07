@@ -44,4 +44,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _meetings/meeting-of-ntp-1.md
 - _meetings/meeting-of-ntp.md
