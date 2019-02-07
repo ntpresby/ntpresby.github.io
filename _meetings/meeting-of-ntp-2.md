@@ -6,6 +6,5 @@ place:
   name: Colleyville Presbyterian - Colleyville
   location: 715 Cheek Sparger Road Colleyville, TX 76034
   link: http://cpcpca.org/
-published: false
 
 ---
