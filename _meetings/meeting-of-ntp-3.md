@@ -6,6 +6,5 @@ place:
   name: Town North Presbyterian - Richardson
   location: 1776 N. Plano Road Richardson, TX 75081
   link: https://www.tnpc.org/
-published: false
 
 ---
