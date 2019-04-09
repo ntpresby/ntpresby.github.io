@@ -7,4 +7,5 @@ publish: true
 ---
 The following position is open and in need of filling. Click on the title below to view the full job description.
 
+[Director of Children's and Youth Choirs](https://jobsatpcpc.org/job-description/211/ "Director of Children's and Youth Choirs")  
 [Youth Ministry - Resident](https://jobsatpcpc.org/job-description/186/ "Youth Ministry Resident")
