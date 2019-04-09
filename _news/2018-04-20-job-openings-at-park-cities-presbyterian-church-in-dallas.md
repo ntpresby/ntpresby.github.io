@@ -1,5 +1,5 @@
 ---
-date: 2019-02-21 11:00:00 -0600
+date: 2019-04-08 11:00:00 -0500
 expires: 2019-12-31 00:00:00 -0600
 title: Job Openings at Park Cities Presbyterian Church in Dallas
 publish: true
