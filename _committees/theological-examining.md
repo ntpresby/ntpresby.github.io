@@ -1,5 +1,5 @@
 ---
-date: 2017-05-04 00:42:59 +0000
+date: 2017-05-04T00:42:59.000+00:00
 documents:
 - author: Chapell and Meek
   name: Preparing for Licensure and Ordination Exams
@@ -53,11 +53,12 @@ important_dates:
   name: 'Floor Exams:'
 layout: committees
 members:
-- campus_ministry: RUF - Texas Christian University
+- name: Jon Marq Toombs
+  church: Christ Covenant Church - Mesquite
   church_office: Teaching Elder
   committee_role: Chairman
-  email: ryan.anderson@ruf.org
-  name: Ryan Anderson
+  campus_ministry: ''
+  email: ''
 - church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Ruling Elder
   committee_role: Clerk
@@ -96,15 +97,9 @@ members:
   committee_role: ''
   email: ''
   name: Chris Thomas
-- name: Jon Marq Toombs
-  church: Christ Covenant Church - Mesquite
+- church: Colleyville Presbyterian Church - Colleyville
   church_office: Teaching Elder
-  committee_role: ''
-  campus_ministry: ''
-  email: ''
-- church: Fort Worth Presbyterian Church - Fort Worth
-  church_office: Ruling Elder
-  name: John Weiser
+  name: Patrick Webb
 - name: David Westerfield
   church: Trinity Presbyterian Church - Fort Worth
   church_office: Ruling Elder
