@@ -1,4 +1,5 @@
 ---
+title: Theological Examining
 date: 2017-05-04T00:42:59.000+00:00
 documents:
 - author: Chapell and Meek
@@ -64,15 +65,24 @@ members:
   committee_role: Clerk
   email: steve@fortworthpca.org
   name: Steve Fults
-- church: Lakeside Presbyterian Church - Southlake
+- name: Greg Anderson
+  church: Lakeside Presbyterian Church - Southlake
   church_office: Ruling Elder
-  name: Greg Anderson
-- church: Colleyville Presbyterian Church - Colleyville
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Josh Anderson
+  church: Colleyville Presbyterian Church - Colleyville
   church_office: Teaching Elder
-  name: Josh Anderson
-- church: New St. Peters Presbyterian Church - Dallas
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: John Buerger
+  church: New St. Peters Presbyterian Church - Dallas
   church_office: Teaching Elder
-  name: John Buerger
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - name: Todd Gwennap
   church: Christ the King Presbyterian Church - Desoto
   church_office: Teaching Elder
@@ -103,21 +113,23 @@ members:
   committee_role: ''
   campus_ministry: ''
   email: ''
-- church: Colleyville Presbyterian Church - Colleyville
+- name: Patrick Webb
+  church: Colleyville Presbyterian Church - Colleyville
   church_office: Teaching Elder
-  name: Patrick Webb
-- campus_ministry: ''
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: John Weiser
   church: Fort Worth Presbyterian - Fort Worth
   church_office: Ruling Elder
+  campus_ministry: ''
   committee_role: ''
   email: ''
-  name: John Weiser
 - name: David Westerfield
   church: Trinity Presbyterian Church - Fort Worth
   church_office: Ruling Elder
   committee_role: ''
   campus_ministry: ''
   email: ''
-title: Theological Examining
 
 ---
