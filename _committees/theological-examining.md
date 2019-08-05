@@ -97,6 +97,12 @@ members:
   committee_role: ''
   campus_ministry: ''
   email: ''
+- name: Jake Patton
+  church: New City Presbyterian - Celina
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - church: Colleyville Presbyterian Church - Colleyville
   church_office: Teaching Elder
   name: Patrick Webb
