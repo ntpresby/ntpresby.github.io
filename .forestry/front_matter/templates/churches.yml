@@ -67,5 +67,3 @@ fields:
   - type: boolean
     name: senior_minister
     label: Senior Minister
-pages:
-- _churches/new-city-presbyterian-church.md
