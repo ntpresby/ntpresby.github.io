@@ -13,5 +13,4 @@ website: https://www.newcitypres.org/
 pastors:
 - name: Jake Patton
   senior_minister: true
-
 ---
