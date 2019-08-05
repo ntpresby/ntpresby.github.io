@@ -2,7 +2,7 @@
 title: Theological Examining
 date: 2019-08-04T00:42:59.000+00:00
 members:
-- name: Jon Marq Toombs
+- name: Marq Toombs
   church: Christ Covenant Church - Mesquite
   church_office: Teaching Elder
   committee_role: Chairman
