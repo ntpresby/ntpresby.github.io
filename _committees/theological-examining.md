@@ -91,15 +91,21 @@ members:
   committee_role: ''
   campus_ministry: ''
   email: ''
-- campus_ministry: ''
-  church: Redeemer Presbyterian Church - Amarillo
+- name: Ryan Moore
+  church: Fort Worth Presbyterian - Fort Worth
   church_office: Teaching Elder
   committee_role: ''
+  campus_ministry: ''
   email: ''
-  name: Chris Thomas
 - church: Colleyville Presbyterian Church - Colleyville
   church_office: Teaching Elder
   name: Patrick Webb
+- campus_ministry: ''
+  church: Fort Worth Presbyterian - Fort Worth
+  church_office: Ruling Elder
+  committee_role: ''
+  email: ''
+  name: John Weiser
 - name: David Westerfield
   church: Trinity Presbyterian Church - Fort Worth
   church_office: Ruling Elder
