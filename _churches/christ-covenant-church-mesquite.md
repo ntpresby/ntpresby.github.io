@@ -11,6 +11,6 @@ phone: 469-474-4477
 website: http://christcovenantc.com
 pastors:
   -
-    name: Jon Marq Toombs
+    name: Marq Toombs
     senior_minister: Yes
 ---
