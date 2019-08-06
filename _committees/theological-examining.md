@@ -25,12 +25,6 @@ members:
   committee_role: ''
   campus_ministry: ''
   email: ''
-- name: John Buerger
-  church: New St. Peters Presbyterian Church - Dallas
-  church_office: Teaching Elder
-  committee_role: ''
-  campus_ministry: ''
-  email: ''
 - name: Todd Gwennap
   church: Christ the King Presbyterian Church - Desoto
   church_office: Teaching Elder
@@ -109,26 +103,27 @@ documents:
   author: ''
 important_dates:
 - dates:
-  - date: 2019-04-01 00:00:00 -0500
-  - date: 2019-07-08 00:00:00 -0500
-  - date: 2019-09-30 00:00:00 -0500
+  - date: 2019-04-01T05:00:00.000+00:00
+  - date: 2019-07-08T05:00:00.000+00:00
+  - date: 2019-09-30T05:00:00.000+00:00
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
-  - date: 2019-01-10 00:00:00 -0600
-  - date: 2019-04-11 19:00:00 -0500
-  - date: 2019-07-18 19:00:00 -0500
-  - date: 2019-10-10 00:00:00 -0500
+  - date: 2019-01-10T06:00:00.000+00:00
+  - date: 2019-04-12T00:00:00.000+00:00
+  - date: 2019-07-19T00:00:00.000+00:00
+  - date: 2019-10-10T05:00:00.000+00:00
   name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 - dates:
-  - date: 2019-02-01 19:00:00 -0600
-  - date: 2019-02-02 00:00:00 -0600
-  - date: 2019-05-03 00:00:00 -0500
-  - date: 2019-05-04 19:00:00 -0500
-  - date: 2019-08-09 00:00:00 -0500
-  - date: 2019-08-10 00:00:00 -0500
-  - date: 2019-11-01 00:00:00 -0500
-  - date: 2019-11-02 00:00:00 -0500
+  - date: 2019-02-02T01:00:00.000+00:00
+  - date: 2019-02-02T06:00:00.000+00:00
+  - date: 2019-05-03T05:00:00.000+00:00
+  - date: 2019-05-05T00:00:00.000+00:00
+  - date: 2019-08-09T05:00:00.000+00:00
+  - date: 2019-08-10T05:00:00.000+00:00
+  - date: 2019-11-01T05:00:00.000+00:00
+  - date: 2019-11-02T05:00:00.000+00:00
   name: 'Floor Exams:'
 layout: committees
+
 ---
