@@ -7,7 +7,7 @@ members:
   church_office: Teaching Elder
   committee_role: Chairman
   campus_ministry: ''
-  email: ''
+  email: 'marq@christcovenantc.com'
 - church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Ruling Elder
   committee_role: Clerk
