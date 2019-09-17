@@ -14,6 +14,6 @@ pastors:
   senior_minister: false
 - name: Jake Yohannan
   senior_minister: false
-date: 2018-02-04T06:32:49.000+00:00
+date: 2019-09-16 00:32:49 -0500
 
 ---
