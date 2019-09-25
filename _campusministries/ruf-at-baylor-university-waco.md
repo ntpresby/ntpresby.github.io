@@ -7,8 +7,7 @@ address_city: Waco
 address_state: TX
 address_zipcode: 
 address_geocode: 31.5328016,-97.1360071
-website: http://www.baylor.ruf.org/
+website: http://www.ruf.org/ministry/baylor-university
 minister: Way Rutherford
+
 ---
-
-
