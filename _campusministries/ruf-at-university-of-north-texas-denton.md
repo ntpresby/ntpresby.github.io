@@ -7,8 +7,8 @@ address_city: Denton
 address_state: TX
 address_zipcode: 76201
 address_geocode: 33.2130395,-97.1495437
-website: http://untruf.org
-minister: Matthew Odum
+website: http://www.ruf.org/ministry/university-of-north-texas
+minister: Justin Smith
 ---
 
 
