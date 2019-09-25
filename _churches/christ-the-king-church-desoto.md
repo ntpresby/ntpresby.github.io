@@ -9,7 +9,7 @@ address_zipcode: 75115
 address_geocode: 32.6237781,-96.8717778
 website: http://ctktexas.com
 pastors:
-- name: Kevin Gladding
-  senior_minister: false
+- name: Todd Gwennap
+  senior_minister: true
 date: 2017-10-16 18:13:57 +0000
 ---
