@@ -5,13 +5,10 @@ slug: metrocrest-presbyterian-church-carrollton
 address_street: 1265 E. Hebron Parkway
 address_city: Carrollton
 address_state: TX
-address_zipcode: 75010
+address_zipcode: "75010"
 address_geocode: 33.0242550,-96.9074955
 website: http://www.metrocrestchurch.org
-pastors:
-- name: ''
-  senior_minister: false
-date: 2018-02-04 06:32:49 +0000
+pastors: []
+date: 2018-02-04T06:32:49.000+00:00
+
 ---
-
-
