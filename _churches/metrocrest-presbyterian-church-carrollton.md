@@ -9,6 +9,6 @@ address_zipcode: "75010"
 address_geocode: 33.0242550,-96.9074955
 website: http://www.metrocrestchurch.org
 pastors: []
-date: 2018-02-04T06:32:49.000+00:00
+date: 2019-09-28 00:32:49 -0500
 
 ---
