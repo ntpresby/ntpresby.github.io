@@ -9,8 +9,8 @@ address_zipcode: 75010
 address_geocode: 33.0242550,-96.9074955
 website: http://www.metrocrestchurch.org
 pastors:
-- name: David Ridenhour
-  senior_minister: true
+- name: ''
+  senior_minister: false
 date: 2018-02-04 06:32:49 +0000
 ---
 
