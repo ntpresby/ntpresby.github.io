@@ -11,4 +11,5 @@ The following position is open and in need of filling. Click on the title below 
 [Ministry Leader of Nursery & Childcare](https://jobsatpcpc.org/job-description/213/ "Ministry Leader of Nursery & Childcare")  
 [Director of Children's and Youth Choirs](https://jobsatpcpc.org/job-description/211/ "Director of Children's and Youth Choirs")  
 [Worship and Music/Arts Production Manager](https://jobsatpcpc.org/job-description/209/ "Worship and Music/Arts Production Manager")  
-[Building Engineer and Maintenance Tech Specialist](https://jobsatpcpc.org/job-description/212/ "Building Engineer and Maintenance Tech Specialist")
+[Building Engineer and Maintenance Tech Specialist](https://jobsatpcpc.org/job-description/212/ "Building Engineer and Maintenance Tech Specialist")  
+[Senior Admin Assistant for City Missions and Diaconate](https://www.jobsatpcpc.org/job-description/224/ "Senior Admin Assistant for City Missions and Diaconate")
