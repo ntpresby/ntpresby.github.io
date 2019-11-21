@@ -105,7 +105,7 @@ important_dates:
 - dates:
   - date: 2020-04-09 00:00:00 -0500
   - date: 2020-07-23 00:00:00 -0500
-  - date: 2019-09-30T05:00:00.000+00:00
+  - date: 2020-10-16 00:00:00 -0500
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
   - date: 2019-01-10T06:00:00.000+00:00
