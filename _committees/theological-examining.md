@@ -106,20 +106,20 @@ important_dates:
   - date: 2020-01-06 00:00:00 -0600
   - date: 2020-03-30 00:00:00 -0500
   - date: 2020-07-13 00:00:00 -0500
-  - date: 2020-10-06 00:00:00 -0500
+  - date: 2020-10-05 00:00:00 -0500
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
   - date: 2020-01-16 00:00:00 -0600
   - date: 2020-04-09 00:00:00 -0500
   - date: 2020-07-23 00:00:00 -0500
-  - date: 2020-10-16 00:00:00 -0500
+  - date: 2020-10-15 00:00:00 -0500
   name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 - dates:
-  - date: 2020-01-16 00:00:00 -0600
-  - date: 2020-04-09 00:00:00 -0500
-  - date: 2020-07-23 00:00:00 -0500
-  - date: 2020-10-16 00:00:00 -0500
+  - date: 2019-01-16 00:00:00 -0600
+  - date: 2019-04-09 00:00:00 -0500
+  - date: 2019-07-23 00:00:00 -0500
+  - date: 2019-10-15 00:00:00 -0500
   name: 'Floor Exams:'
 layout: committees
 
