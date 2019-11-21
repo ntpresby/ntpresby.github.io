@@ -3,11 +3,11 @@ title: Theological Examining
 date: 2019-08-04T00:42:59.000+00:00
 members:
 - name: Marq Toombs
-  church: Christ Covenant Church - Mesquite
+  church: Rockwall Presbyterian Church - Rockwall
   church_office: Teaching Elder
   committee_role: Chairman
   campus_ministry: ''
-  email: 'marq@christcovenantc.com'
+  email: mtoombs@rockwallpres.org
 - church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Ruling Elder
   committee_role: Clerk
@@ -103,8 +103,8 @@ documents:
   author: ''
 important_dates:
 - dates:
-  - date: 2019-04-01T05:00:00.000+00:00
-  - date: 2019-07-08T05:00:00.000+00:00
+  - date: 2020-04-09 00:00:00 -0500
+  - date: 2020-07-23 00:00:00 -0500
   - date: 2019-09-30T05:00:00.000+00:00
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
