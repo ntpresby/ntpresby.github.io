@@ -1,10 +1,10 @@
 ---
 title: Meeting of NTP
-date: 2019-08-09 19:00:00 -0500
-end_date: 2019-08-10 14:00:00 -0500
+date: 2020-08-14 19:00:00 -0500
+end_date: 2020-08-15 14:00:00 -0500
 place:
-  name: Colleyville Presbyterian - Colleyville
-  location: 715 Cheek Sparger Road Colleyville, TX 76034
-  link: http://cpcpca.org/
+  name: TBD
+  location: ''
+  link: ''
 
 ---
