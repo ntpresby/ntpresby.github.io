@@ -2,12 +2,6 @@
 layout: committees
 title: Administrative
 members:
-- name: Matt Fray
-  church: Park Cities Presbyterian Church - Dallas, TX
-  church_office: Teaching Elder
-  committee_role: ''
-  campus_ministry: ''
-  email: ''
 - name: Josh Anderson
   church: Colleyville Presbyterian Church - Colleyville
   church_office: Teaching Elder
@@ -28,6 +22,12 @@ members:
   church: Lakewood Presbyterian Church - Dallas
   church_office: Ruling Elder
   committee_role: Nominations Clerk
+- name: Matt Fray
+  church: Park Cities Presbyterian Church - Dallas, TX
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 documents:
 - name: The Standing Rules of the North Texas Presbytery
   file: "/uploads/2018/02/04/20180203_NTPresby_StandingRules_Revised.pdf"
