@@ -23,8 +23,44 @@ members:
   church_office: Ruling Elder
   committee_role: Nominations Clerk
 - name: Matt Fray
-  church: Park Cities Presbyterian Church - Dallas, TX
+  church: Park Cities Presbyterian Church - Dallas
   church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Chip Gorman
+  church: Trinity Presbyterian Church - Plano, TX
+  church_office: Ruling Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Colin Peters
+  church: New St. Peter's Presbyterian Church - Dallas
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Patrick Poteet
+  church: Christ Community Church - Frisco
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Louis Tiscione
+  church: Weatherford Presbyterian Church - Weatherford
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Marq Toombs
+  church: Rockwall Presbyterian Church - Rockwall
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Steve Vanderhill
+  church: Park Cities Presbyterian Church - Dallas
+  church_office: Ruling Elder
   committee_role: ''
   campus_ministry: ''
   email: ''
