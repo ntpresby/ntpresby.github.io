@@ -6,24 +6,50 @@ members:
   church: Park Cities Presbyterian Church - Dallas
   church_office: Teaching Elder
   committee_role: Chairman
+  campus_ministry: ''
+  email: ''
+- name: Mark Belonga
+  church: Zion Presbyterian Church - Prosper
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Anton Huess
+  church: Bethel Church - Dallas
+  church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - name: Tim Jeffress
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - name: Tim Jessup
   church: Lakeside Presbyterian Church - Southlake
   church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - name: Phillip Maxwell
   church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Teaching Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - name: Bobby Payne
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
-- name: Patrick Poteet
-  church: Christ Community Church - Frisco
-  church_office: Teaching Elder
-- name: Rey Rivera
-  church: Cristo Rey Presbyterian Church - Dallas
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Mark Scott
+  church: Colleyville Presbyterian Church - Colleyville
   church_office: Ruling Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - name: Matt Wood
   church: Grace and Peace Presbyterian - Anna
   church_office: Teaching Elder
