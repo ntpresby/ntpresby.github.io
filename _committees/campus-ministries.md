@@ -15,9 +15,6 @@ members:
 - name: Rob Guzak
   church: Christ Carrollton Church - Carrollton
   church_office: Ruling Elder
-- name: Rob Hamby
-  church: Mercy Presbyterian Church - Dallas
-  church_office: Teaching Elder
 - name: Wade Jewett
   church: Trinity Presbyterian Church - Fort Worth
   church_office: Ruling Elder
