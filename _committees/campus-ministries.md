@@ -6,18 +6,14 @@ members:
   church: New St. Peters Presbyterian Church - Dallas
   church_office: Teaching Elder
   committee_role: Chairman
-- name: David Wilson
-  church: Denton Presbyterian Church - Denton
-  church_office: Teaching Elder
-  committee_role: Clerk
 - name: Brian Davis
   church: Trinity Presbyterian Church - Fort Worth
   church_office: Teaching Elder
   committee_role: ''
   campus_ministry: ''
   email: ''
-- name: Ben Dyess
-  church: Fort Worth Presbyterian Church - Fort Worth
+- name: Rob Guzak
+  church: Christ Carrollton Church - Carrollton
   church_office: Ruling Elder
 - name: Rob Hamby
   church: Mercy Presbyterian Church - Dallas
@@ -34,5 +30,4 @@ members:
 - name: Mike Skinner
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
-
 ---
