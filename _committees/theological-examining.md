@@ -104,13 +104,13 @@ documents:
 important_dates:
 - dates:
   - date: 2020-01-06 00:00:00 -0600
-  - date: 2020-03-30 00:00:00 -0500
+  - date: 2020-04-06 00:00:00 -0500
   - date: 2020-07-13 00:00:00 -0500
   - date: 2020-10-05 00:00:00 -0500
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
   - date: 2020-01-16 00:00:00 -0600
-  - date: 2020-04-09 00:00:00 -0500
+  - date: 2020-04-16 00:00:00 -0500
   - date: 2020-07-23 00:00:00 -0500
   - date: 2020-10-15 00:00:00 -0500
   name: Committee Exams
