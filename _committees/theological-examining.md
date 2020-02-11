@@ -1,6 +1,6 @@
 ---
 title: Theological Examining
-date: 2019-11-20 19:42:59 -0600
+date: 2019-11-21T01:42:59.000+00:00
 members:
 - name: Marq Toombs
   church: Rockwall Presbyterian Church - Rockwall
@@ -8,17 +8,6 @@ members:
   committee_role: Chairman
   campus_ministry: ''
   email: mtoombs@rockwallpres.org
-- church: Fort Worth Presbyterian Church - Fort Worth
-  church_office: Ruling Elder
-  committee_role: Clerk
-  email: steve@fortworthpca.org
-  name: Steve Fults
-- name: Greg Anderson
-  church: Lakeside Presbyterian Church - Southlake
-  church_office: Ruling Elder
-  committee_role: ''
-  campus_ministry: ''
-  email: ''
 - name: Josh Anderson
   church: Colleyville Presbyterian Church - Colleyville
   church_office: Teaching Elder
@@ -44,13 +33,19 @@ members:
   campus_ministry: ''
   email: ''
 - name: Ryan Moore
-  church: Fort Worth Presbyterian - Fort Worth
+  church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Teaching Elder
   committee_role: ''
   campus_ministry: ''
   email: ''
+- name: Jeff Murray
+  church: New St. Peter's Presbyterian Church - Dallas
+  church_office: Ruling Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
 - name: Jake Patton
-  church: New City Presbyterian - Celina
+  church: New City Presbyterian Church - Celina
   church_office: Teaching Elder
   committee_role: ''
   campus_ministry: ''
@@ -62,13 +57,19 @@ members:
   campus_ministry: ''
   email: ''
 - name: John Weiser
-  church: Fort Worth Presbyterian - Fort Worth
+  church: Fort Worth Presbyterian Church - Fort Worth
   church_office: Ruling Elder
   campus_ministry: ''
   committee_role: ''
   email: ''
 - name: David Westerfield
   church: Trinity Presbyterian Church - Fort Worth
+  church_office: Ruling Elder
+  committee_role: ''
+  campus_ministry: ''
+  email: ''
+- name: Peter Yoder
+  church: Christ the King Presbyterian Church - Desoto
   church_office: Ruling Elder
   committee_role: ''
   campus_ministry: ''
@@ -103,23 +104,23 @@ documents:
   author: ''
 important_dates:
 - dates:
-  - date: 2020-01-06 00:00:00 -0600
-  - date: 2020-04-06 00:00:00 -0500
-  - date: 2020-07-13 00:00:00 -0500
-  - date: 2020-10-05 00:00:00 -0500
+  - date: 2020-01-06T06:00:00.000+00:00
+  - date: 2020-04-06T05:00:00.000+00:00
+  - date: 2020-07-13T05:00:00.000+00:00
+  - date: 2020-10-05T05:00:00.000+00:00
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
-  - date: 2020-01-16 00:00:00 -0600
-  - date: 2020-04-16 00:00:00 -0500
-  - date: 2020-07-23 00:00:00 -0500
-  - date: 2020-10-15 00:00:00 -0500
+  - date: 2020-01-16T06:00:00.000+00:00
+  - date: 2020-04-16T05:00:00.000+00:00
+  - date: 2020-07-23T05:00:00.000+00:00
+  - date: 2020-10-15T05:00:00.000+00:00
   name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
 - dates:
-  - date: 2019-01-16 00:00:00 -0600
-  - date: 2019-04-09 00:00:00 -0500
-  - date: 2019-07-23 00:00:00 -0500
-  - date: 2019-10-15 00:00:00 -0500
+  - date: 2019-01-16T06:00:00.000+00:00
+  - date: 2019-04-09T05:00:00.000+00:00
+  - date: 2019-07-23T05:00:00.000+00:00
+  - date: 2019-10-15T05:00:00.000+00:00
   name: 'Floor Exams:'
 layout: committees
 
