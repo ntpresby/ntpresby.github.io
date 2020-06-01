@@ -67,3 +67,5 @@ fields:
   - type: boolean
     name: senior_minister
     label: Senior Minister
+pages:
+- _churches/mosaic-church.md
