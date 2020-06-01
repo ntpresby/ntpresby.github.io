@@ -68,6 +68,7 @@ fields:
     name: senior_minister
     label: Senior Minister
 pages:
+- _churches/el-buen-pastor-presbyterian-church-mission.md
 - _churches/mosaic-church.md
 - _churches/new-city-fellowship-mission.md
 - _churches/zion-presbyterian-church-mission.md
