@@ -1,6 +1,6 @@
 ---
 layout: churches
-title: Mosaic Church
+title: Mosaic Church (Mission)
 date: 2020-05-31 00:00:00 -0500
 slug: mosaic-church-waco
 address_street: Hines Elementary School, 301 Garrison St
@@ -13,6 +13,5 @@ website: https://mosaicwaco.org/
 pastors:
 - name: Slim Thompson
   senior_minister: false
-published: false
 
 ---
