@@ -5,11 +5,11 @@ slug: cristo-rey-presbyterian-church-dallas
 address_street: 3353 West Northwest Hwy
 address_city: Dallas
 address_state: TX
-address_zipcode: 75220
+address_zipcode: "75220"
 address_geocode: 32.8572466,-96.8636642
-website: http://www.cristoreypca.org
+website: http://cristoreypca.org
 pastors:
-  -
-    name: Caleb Dunn
-    senior_minister: No
+- name: Caleb Dunn
+  senior_minister: false
+
 ---
