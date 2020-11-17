@@ -1,10 +1,10 @@
 ---
 title: Meeting of NTP
-date: 2020-02-08T01:00:00.000+00:00
-end_date: 2020-02-08T20:00:00.000+00:00
+date: 2021-02-05 19:00:00 -0600
+end_date: 2021-02-06 14:00:00 -0600
 place:
-  name: New Covenant Presbyterian - Dallas
-  location: 2525 N. Buckner Blvd, Dallas, TX 75228
-  link: http://www.ncpcdallas.org/
+  name: Rockwall Presbyterian - Rockwall
+  location: 306 E Rusk St, Rockwall, TX 75087
+  link: https://www.rockwallpres.org/
 
 ---
