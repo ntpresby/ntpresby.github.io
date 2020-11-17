@@ -9,7 +9,6 @@
   <link rel="stylesheet" href="{{ "/workspace/css/main.css?v1" | prepend: site.baseurl }}" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="{{ "/workspace/css/jquery-ui-tabs.css" | prepend: site.baseurl }}" media="screen, projection" />
   <link rel="stylesheet" href="{{ "/workspace/css/blueprint/print.css" | prepend: site.baseurl }}" type="text/css" media="print" />
-  <link href="//api.mapbox.com/mapbox.js/v2.2.3/mapbox.css" rel="stylesheet" />
   <style>
     #map {
        width: 590px; height: 340px; border: 7px solid #ddd;
@@ -65,5 +64,11 @@
    color: #fff;
    }
   </style>
-  <script src="//api.mapbox.com/mapbox.js/v2.2.3/mapbox.js"></script>
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+   <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+ integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+ crossorigin=""></script>
 </head>

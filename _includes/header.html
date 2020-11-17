@@ -8,7 +8,7 @@
     <ul id="menu">
       {% for navitem in site.data.nav %}
       <li>
-        <a href="{{ navitem.url }}"{% if navitem.external %}target="_blank"{% endif%}>{{ navitem.name }}</a>
+        <a href="{{ navitem.url }}"{% if navitem.external %} target="_blank" rel="noopener"{% endif%}>{{ navitem.name }}</a>
       </li>
       {% endfor %}
     </ul>

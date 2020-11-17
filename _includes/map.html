@@ -4,29 +4,17 @@
 {% assign lng = latlng[1] %}
 
 <div id="map"></div>
-<script type="text/javascript">
-  L.mapbox.accessToken = 'pk.eyJ1IjoibnRwcmVzYnkiLCJhIjoiY2loaHoydXNkMG1nZnZma2w5YmhtcHJ5YSJ9.qfncmAi2iTfokLEQDZVJTQ';
-  var map = L.mapbox.map('map', 'mapbox.streets').setView([{{ lat }}, {{ lng }}], 14);
-  L.mapbox.featureLayer({
-    // this feature is in the GeoJSON format: see geojson.org
-    // for the full specification
-    type: 'Feature',
-    geometry: {
-        type: 'Point',
-        // coordinates here are in longitude, latitude order because
-        // x, y is the standard for GeoJSON and many formats
-        coordinates: [
-          {{ lng }},
-          {{ lat }}
-        ]
-    },
-    properties: {
-        title: '{{ page.title }}',
-        description: '{{ page.address_street }}, {{ page.address_city }}, {{ page.address_state }} {{ page.address_zipcode }}<br/><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q={{ page.address_street }} {{ page.address_city }}, {{ page.address_state }} {{ page.address_zipcode }},&amp;iwstate1=dir:to" target="_blank">Get Directions</a>',
-        // one can customize markers by adding simplestyle properties
-        // https://www.mapbox.com/guides/an-open-platform/#simplestyle
-        'marker-size': 'large',
-        'marker-color': '#BE9A6B'
-    }
-}).addTo(map);
+<script>
+  var map = L.map('map').setView([{{ lat }}, {{ lng }}], 14);
+  L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+        attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 18,
+        id: 'mapbox/streets-v11',
+        tileSize: 512,
+        zoomOffset: -1,
+        accessToken: 'pk.eyJ1IjoibnRwcmVzYnkiLCJhIjoiY2loaHoydXNkMG1nZnZma2w5YmhtcHJ5YSJ9.qfncmAi2iTfokLEQDZVJTQ'
+  }).addTo(map);
+        
+  L.marker([{{ lat }}, {{ lng }}]).addTo(map)
+    .bindPopup('{{ page.title }}<br />{{ page.address_street }}<br/>{{ page.address_city }}, {{ page.address_state }} {{ page.address_zipcode }}')
 </script>
