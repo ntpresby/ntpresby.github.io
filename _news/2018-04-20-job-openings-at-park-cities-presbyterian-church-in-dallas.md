@@ -1,6 +1,6 @@
 ---
-date: 2020-11-30 00:00:00 -0600
-expires: 2021-03-28 00:00:00 -0500
+date: 2020-12-01 00:00:00 -0600
+expires: 2021-03-28T00:00:00.000-05:00
 title: Career Opportunities at Park Cities Presbyterian Church in Dallas
 publish: true
 
