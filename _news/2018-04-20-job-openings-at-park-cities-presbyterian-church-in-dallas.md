@@ -2,7 +2,7 @@
 date: 2020-11-30 00:00:00 -0600
 expires: 2021-03-28 00:00:00 -0500
 title: Career Opportunities at Park Cities Presbyterian Church in Dallas
-publish: false
+publish: true
 
 ---
 The following position is open and in need of filling. Click on the title below to view the full job description.
