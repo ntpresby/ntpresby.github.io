@@ -11,6 +11,6 @@ website: http://www.metrocrestchurch.org
 pastors:
 - name: Bill Lovell
   senior_minister: true
-date: 2019-09-28T00:32:49.000-05:00
+date: 2021-03-15 00:32:49 -0500
 
 ---
