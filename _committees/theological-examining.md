@@ -86,6 +86,7 @@ important_dates:
 - dates: []
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates:
+  - date: 2021-10-21 09:00:00 -0500
   - date: 2021-07-22 09:00:00 -0500
   name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
