@@ -90,7 +90,11 @@ important_dates:
   - date: 2021-10-21 09:00:00 -0500
   name: Committee Exams
   note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
-- dates: []
+- dates:
+  - date: 2021-08-13 09:00:00 -0500
+  - date: 2021-08-14 17:00:00 -0500
+  - date: 2021-11-06 09:00:00 -0500
+  - date: 2021-11-07 17:00:00 -0600
   name: 'Floor Exams:'
 layout: committees
 
