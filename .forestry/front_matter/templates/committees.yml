@@ -92,6 +92,11 @@ fields:
     label: Dates
     type: field_group_list
     fields:
+    - name: label
+      type: text
+      config:
+        required: false
+      label: Label
     - name: date
       label: Date
       type: datetime
