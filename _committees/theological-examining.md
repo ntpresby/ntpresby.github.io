@@ -54,6 +54,10 @@ documents:
 - author: Chapell and Meek
   name: Preparing for Licensure and Ordination Exams
   url: https://pcabookstore.com/p-1765-preparing-for-licensure-and-or.aspx
+- name: Licensure and Ordination Process
+  file: "/uploads/2021/06/15/ntp-exam-process-tec.pdf"
+  author: ''
+  url: ''
 - name: Licensure Requirements
   file: "/uploads/2018/09/21/NTP_Licensure_Requirements.pdf"
   url: ''
