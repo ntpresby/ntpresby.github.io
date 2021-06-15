@@ -93,6 +93,8 @@ important_dates:
 - dates:
   - date: 2021-08-13 09:00:00 -0500
   - date: 2021-08-14 17:00:00 -0500
+  - date: 2021-11-05 09:00:00 -0500
+  - date: 2021-11-06 17:00:00 -0500
   name: 'Floor Exams:'
 layout: committees
 
