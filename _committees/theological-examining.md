@@ -1,6 +1,6 @@
 ---
 title: Theological Examining
-date: 2019-11-21T01:42:59.000+00:00
+date: 2021-06-15 12:42:59 -0500
 members:
 - name: Marq Toombs
   church: Rockwall Presbyterian Church - Rockwall
