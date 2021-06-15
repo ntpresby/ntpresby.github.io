@@ -63,7 +63,7 @@ documents:
   url: ''
   author: ''
 - name: Stated Differences and Views Document
-  file: "/uploads/2017/09/12/Views_TEC_NTP.pdf"
+  file: "/uploads/2021/06/15/views-tec-ntp-2021.pdf"
   url: ''
   author: ''
 - name: Transfer from Another Presbytery in the PCA
