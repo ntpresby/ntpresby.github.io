@@ -14,27 +14,9 @@ members:
   committee_role: ''
   campus_ministry: ''
   email: ''
-- name: Todd Gwennap
-  church: Christ the King Presbyterian Church - Desoto
-  church_office: Teaching Elder
-  committee_role: ''
-  campus_ministry: ''
-  email: ''
-- name: Lee Hall
-  church: Redeemer Presbyterian Church - McKinney
-  church_office: Ruling Elder
-  committee_role: ''
-  campus_ministry: ''
-  email: ''
 - name: Tim Jeffress
   church: Park Cities Presbyterian Church - Dallas
   church_office: Ruling Elder
-  committee_role: ''
-  campus_ministry: ''
-  email: ''
-- name: Ryan Moore
-  church: Fort Worth Presbyterian Church - Fort Worth
-  church_office: Teaching Elder
   committee_role: ''
   campus_ministry: ''
   email: ''
@@ -56,23 +38,17 @@ members:
   committee_role: ''
   campus_ministry: ''
   email: ''
-- name: John Weiser
-  church: Fort Worth Presbyterian Church - Fort Worth
-  church_office: Ruling Elder
-  campus_ministry: ''
-  committee_role: ''
-  email: ''
 - name: David Westerfield
   church: Trinity Presbyterian Church - Fort Worth
   church_office: Ruling Elder
   committee_role: ''
   campus_ministry: ''
   email: ''
-- name: Peter Yoder
-  church: Christ the King Presbyterian Church - Desoto
-  church_office: Ruling Elder
+- name: Andy Wood
+  church: ''
+  church_office: Teaching Elder
   committee_role: ''
-  campus_ministry: ''
+  campus_ministry: RUF / Southwest Area Coordinator
   email: ''
 documents:
 - author: Chapell and Meek
