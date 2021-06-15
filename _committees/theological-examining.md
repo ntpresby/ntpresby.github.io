@@ -89,7 +89,12 @@ important_dates:
   - date: 2021-07-22 09:00:00 -0500
   - date: 2021-10-21 09:00:00 -0500
   name: Committee Exams
-  note: 'Note: All written exams are due at least ten days before the Oral exam dates.'
+  note: |
+Time: 9 AM  
+Location: Reformed Theological Seminary (Dallas)   
+1202 Dragon St Suite 104, Dallas, TX 75207
+  
+  
 - dates:
   - date: 2021-08-13 09:00:00 -0500
   - date: 2021-08-14 17:00:00 -0500
@@ -99,6 +104,3 @@ important_dates:
 layout: committees
 
 ---
-Time: 9 AM    
-Location: Reformed Theological Seminary (Dallas)    
-1202 Dragon St Suite 104, Dallas, TX 75207
