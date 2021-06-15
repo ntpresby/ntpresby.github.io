@@ -83,11 +83,7 @@ documents:
   url: ''
   author: ''
 important_dates:
-- dates:
-  - date: 2020-01-06T06:00:00.000+00:00
-  - date: 2020-04-06T05:00:00.000+00:00
-  - date: 2020-07-13T05:00:00.000+00:00
-  - date: 2020-10-05T05:00:00.000+00:00
+- dates: []
   name: All Written Exams Submitted Back to the Clerk of the TEC
 - dates: []
   name: Committee Exams
