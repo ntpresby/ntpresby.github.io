@@ -92,7 +92,8 @@ important_dates:
   note: |
     Time: 9 AM<br/>
     Location: Reformed Theological Seminary (Dallas)<br/>
-    1202 Dragon St Suite 104, Dallas, TX 75207
+    1202 Dragon St Suite 104, Dallas, TX 75207<br/><br/>
+    Note: All written exams are due at least ten days before the Oral exam dates.
   
   
 - dates:
@@ -101,6 +102,8 @@ important_dates:
   - date: 2021-11-05 09:00:00 -0500
   - date: 2021-11-06 17:00:00 -0500
   name: 'Floor Exams:'
+  note: |
+    Note: Exams usually take place on Saturday morning.
 layout: committees
 
 ---
