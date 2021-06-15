@@ -99,3 +99,6 @@ important_dates:
 layout: committees
 
 ---
+Time: 9 AM    
+Location: Reformed Theological Seminary (Dallas)    
+1202 Dragon St Suite 104, Dallas, TX 75207
