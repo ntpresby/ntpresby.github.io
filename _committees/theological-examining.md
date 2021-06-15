@@ -90,8 +90,8 @@ important_dates:
   - date: 2021-10-21 09:00:00 -0500
   name: Committee Exams
   note: |
-    Time: 9 AM  
-    Location: Reformed Theological Seminary (Dallas)   
+    Time: 9 AM<br/>
+    Location: Reformed Theological Seminary (Dallas)<br/>
     1202 Dragon St Suite 104, Dallas, TX 75207
   
   
