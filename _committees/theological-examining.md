@@ -84,7 +84,7 @@ documents:
   author: ''
 important_dates:
 - dates: []
-  name: All Written Exams Submitted Back to the Charman and/or Clerk of the TEC
+  name: All Written Exams Submitted Back to the Charman and/or Clerk of the TEC no later than ten days before oral exams with the committee.
 - dates:
   - date: 2021-07-22 09:00:00 -0500
   - date: 2021-10-21 09:00:00 -0500
@@ -92,8 +92,7 @@ important_dates:
   note: |
     Time: 9 AM<br/>
     Location: Reformed Theological Seminary (Dallas)<br/>
-    1202 Dragon St Suite 104, Dallas, TX 75207<br/><br/>
-    Note: All written exams must be submitted back to the Chairman and/or Clerk of the TEC no later than ten days before oral exams with the committee. 
+    1202 Dragon St Suite 104, Dallas, TX 75207
   
   
 - dates:
